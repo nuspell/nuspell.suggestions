@@ -1,0 +1,56 @@
+Correction File             de_DE_frami.tsv
+Total Words Spelling        478
+Positives Nuspell           0
+Positives Hunspell          0
+Negatives Nuspell           478
+Negatives Hunspell          478
+True Positives              0
+True Negatives              478
+False Positives             0
+False Negatives             0
+True Positive Rate          0
+True Negative Rate          1
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      63771427
+Total Duration Hunspell     25994220
+Minimum Duration Nuspell    5182
+Minimum Duration Hunspell   5333
+Average Duration Nuspell    133413
+Average Duration Hunspell   54381
+Maximum Duration Nuspell    656158
+Maximum Duration Hunspell   221801
+Maximum Speedup             2.30691
+Accuracy                    1
+Precision                   0
+Speedup                     0.407615
+Total Words Suggestion                  478
+Correction In Suggestions Nuspell       399
+Correction In Suggestions Hunspell      333
+Correction In Suggestions Both          333
+Correction As First Suggestion Nuspell  285
+Correction As First Suggestion Hunspell 251
+Correction As First Suggestion Both     237
+Nuspell More Suggestions                81
+Hunspell More Suggestions               29
+Same Number Of Suggestions              333
+Nuspell No Suggestions                  3
+Hunspell No Suggestions                 3
+Both No Suggestions                     3
+Maximum Suggestions Nuspell             32
+Maximum Suggestions Hunspell            16
+Rate Corr. In Suggestions Nuspell       0.834728
+Rate Corr. In Suggestions Hunspell      0.696653
+Rate Corr. As First Suggestion Nuspell  0.596234
+Rate Corr. As First Suggestion Hunspell 0.525105
+Total Duration Suggestions Nuspell      300533034510
+Total Duration Suggestions Hunspell     139287188050
+Minimum Duration Suggestions Nuspell    6132463
+Minimum Duration Suggestions Hunspell   2264020
+Average Duration Suggestions Nuspell    628730197
+Average Duration Suggestions Hunspell   291395790
+Maximum Duration Suggestions Nuspell    2879896684
+Maximum Duration Suggestions Hunspell   1026218343
+Maximum Suggestions Speedup             25.1378
+Suggestions Speedup                     0.463467
+Total Time 441

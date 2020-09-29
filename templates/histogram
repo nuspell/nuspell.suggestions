@@ -1,0 +1,23 @@
+set terminal pngcairo enhanced font "arial,10" fontscale 1.0 size 800,600
+set output 'graphs/NAME.png'
+set boxwidth MAX./50 absolute
+set key fixed right top vertical Right noreverse enhanced autotitle box lt black linewidth 1.000 dashtype solid
+set xzeroaxis
+set yzeroaxis
+set zzeroaxis
+set title 'TITLE'
+set ytics norangelimit 0.00000,0.2
+set xrange [ 0.00000 : * ] noreverse writeback noextend
+set x2range [ 0.00000 : * ] noreverse writeback
+set xlabel 'XLABEL'
+set yrange [ -0.400000 : 1.20000 ] noreverse nowriteback
+set y2range [ * : * ] noreverse writeback
+set zrange [ * : * ] noreverse writeback
+set cbrange [ * : * ] noreverse writeback
+set rrange [ * : * ] noreverse writeback
+bin(x, s) = s*int(x/s)
+NO_ANIMATION = 1
+
+N = SIZE
+## Last datafile plotted: "random-points"
+plot "logs/NAME" u 1:(0.25*rand(0)-.35) t '', "" u (bin($1,MAX./50)):(2./N) smooth freq t 'smooth frequency' w boxes, "" u 1:(1.) smooth cnorm t 'smooth cnorm'

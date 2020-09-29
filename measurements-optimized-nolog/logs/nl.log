@@ -1,0 +1,58 @@
+Correction File             nl.tsv
+Total Words Spelling        5233
+Positives Nuspell           1
+Positives Hunspell          1
+Negatives Nuspell           5232
+Negatives Hunspell          5232
+True Positives              1
+True Negatives              5232
+False Positives             0
+False Negatives             0
+True Positive Rate          0.000191095
+True Negative Rate          0.999809
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      460224115
+Total Duration Hunspell     336672935
+Minimum Duration Nuspell    6400
+Minimum Duration Hunspell   5779
+Average Duration Nuspell    87946
+Average Duration Hunspell   64336
+Maximum Duration Nuspell    581334
+Maximum Duration Hunspell   331221
+Maximum Speedup             2.22574
+Accuracy                    1
+Precision                   1
+Speedup                     0.731541
+Total Words Suggestion                  5232
+Correction In Suggestions Nuspell       3711
+Correction In Suggestions Hunspell      3580
+Correction In Suggestions Both          3473
+Correction As First Suggestion Nuspell  3052
+Correction As First Suggestion Hunspell 3278
+Correction As First Suggestion Both     2962
+Nuspell More Suggestions                2613
+Hunspell More Suggestions               356
+Same Number Of Suggestions              3580
+Nuspell No Suggestions                  586
+Hunspell No Suggestions                 655
+Both No Suggestions                     518
+Maximum Suggestions Nuspell             15
+Maximum Suggestions Hunspell            15
+Rate Corr. In Suggestions Nuspell       0.709289
+Rate Corr. In Suggestions Hunspell      0.684251
+Rate Corr. As First Suggestion Nuspell  0.583333
+Rate Corr. As First Suggestion Hunspell 0.626529
+Total Duration Suggestions Nuspell      1457485328430
+Total Duration Suggestions Hunspell     2386379472576
+Minimum Duration Suggestions Nuspell    56354
+Minimum Duration Suggestions Hunspell   239361
+Average Duration Suggestions Nuspell    278571354
+Average Duration Suggestions Hunspell   456112284
+Maximum Duration Suggestions Nuspell    2868023156
+Maximum Duration Suggestions Hunspell   7623214514
+Maximum Suggestions Speedup             13313.3
+Suggestions Speedup                     1.63733
+The following words are correct and should not be used:
+ChristenUnie-leden
+Total Time 3846
