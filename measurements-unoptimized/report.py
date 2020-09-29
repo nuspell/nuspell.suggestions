@@ -29,8 +29,6 @@ def main():
     for file in sorted(listdir('logs')):
         if file.endswith('.log'):
             dikt = file[:-4]
-            if dikt == 'nl':
-                continue
             print(f'  {dikt}')
             result = open(path.join('logs', file))
             words = None
