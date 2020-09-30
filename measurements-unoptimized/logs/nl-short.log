@@ -10,7 +10,7 @@ extra_char_suggest 152833
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 17713651
 move_char_suggest 1024399
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 14046717
 double_two_chars_suggest 277
 two_words_suggest 29161
@@ -29,7 +29,7 @@ extra_char_suggest 313354
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 29553338
 move_char_suggest 1988186
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 23996672
 double_two_chars_suggest 309
 two_words_suggest 42781
@@ -48,7 +48,7 @@ extra_char_suggest 51273
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 10036961
 move_char_suggest 107082
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 6072424
 double_two_chars_suggest 87
 two_words_suggest 14665
@@ -67,7 +67,7 @@ extra_char_suggest 390847
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 41593085
 move_char_suggest 3359409
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 34622929
 double_two_chars_suggest 265
 two_words_suggest 81441
@@ -86,7 +86,7 @@ extra_char_suggest 309190
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 36349137
 move_char_suggest 1827511
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 27578126
 double_two_chars_suggest 329
 two_words_suggest 68752
@@ -105,7 +105,7 @@ extra_char_suggest 132809
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 16273477
 move_char_suggest 710182
-bad_char_sugggest_attempts 547
+bad_char_suggest_attempts 547
 bad_char_suggest 12298157
 double_two_chars_suggest 290
 two_words_suggest 30230
@@ -124,7 +124,7 @@ extra_char_suggest 327455
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 37074723
 move_char_suggest 1759266
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 27929841
 double_two_chars_suggest 299
 two_words_suggest 81860
@@ -143,7 +143,7 @@ extra_char_suggest 376827
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 42487663
 move_char_suggest 1609133
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 31096079
 double_two_chars_suggest 293
 two_words_suggest 67253
@@ -162,7 +162,7 @@ extra_char_suggest 373180
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 39797954
 move_char_suggest 3534489
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 33099538
 double_two_chars_suggest 309
 two_words_suggest 42817
@@ -181,7 +181,7 @@ extra_char_suggest 193186
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 22170894
 move_char_suggest 1182361
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 17222265
 double_two_chars_suggest 242
 two_words_suggest 28531
@@ -200,7 +200,7 @@ extra_char_suggest 335153
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 31721189
 move_char_suggest 2510043
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 26152899
 double_two_chars_suggest 370
 two_words_suggest 34766
@@ -219,7 +219,7 @@ extra_char_suggest 333755
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 32382125
 move_char_suggest 2528481
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 26600622
 double_two_chars_suggest 282
 two_words_suggest 33765
@@ -238,7 +238,7 @@ extra_char_suggest 968478
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 93521745
 move_char_suggest 10373136
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 80098492
 double_two_chars_suggest 318
 two_words_suggest 110433
@@ -254,7 +254,7 @@ extra_char_suggest 414453
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 41016198
 move_char_suggest 3784982
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 34430073
 double_two_chars_suggest 333
 two_words_suggest 48283
@@ -273,7 +273,7 @@ extra_char_suggest 285299
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 29931650
 move_char_suggest 2063777
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 23948172
 double_two_chars_suggest 348
 two_words_suggest 37798
@@ -292,7 +292,7 @@ extra_char_suggest 340360
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 37215547
 move_char_suggest 2991657
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 29935130
 double_two_chars_suggest 343
 two_words_suggest 39358
@@ -311,7 +311,7 @@ extra_char_suggest 495502
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 45080137
 move_char_suggest 4078310
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 37622715
 double_two_chars_suggest 328
 two_words_suggest 55718
@@ -330,7 +330,7 @@ extra_char_suggest 471249
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 45178962
 move_char_suggest 4062491
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 37553580
 double_two_chars_suggest 311
 two_words_suggest 54806
@@ -349,7 +349,7 @@ extra_char_suggest 363866
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 35363529
 move_char_suggest 2821266
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 28942008
 double_two_chars_suggest 328
 two_words_suggest 36213
@@ -368,7 +368,7 @@ extra_char_suggest 381418
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 37895513
 move_char_suggest 2965906
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 31110653
 double_two_chars_suggest 316
 two_words_suggest 53018
@@ -387,7 +387,7 @@ extra_char_suggest 471362
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 46139736
 move_char_suggest 3715269
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 38649780
 double_two_chars_suggest 309
 two_words_suggest 92133
@@ -406,7 +406,7 @@ extra_char_suggest 332263
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 33101441
 move_char_suggest 2275400
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 26824735
 double_two_chars_suggest 309
 two_words_suggest 63896
@@ -425,7 +425,7 @@ extra_char_suggest 440723
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 43713573
 move_char_suggest 3591027
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 35691428
 double_two_chars_suggest 299
 two_words_suggest 82854
@@ -444,7 +444,7 @@ extra_char_suggest 216300
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 23967785
 move_char_suggest 1066413
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 18560512
 double_two_chars_suggest 282
 two_words_suggest 52151
@@ -463,7 +463,7 @@ extra_char_suggest 142408
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 17235876
 move_char_suggest 747999
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 12792853
 double_two_chars_suggest 303
 two_words_suggest 22185
@@ -482,7 +482,7 @@ extra_char_suggest 327897
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 34509445
 move_char_suggest 2702792
-bad_char_sugggest_attempts 781
+bad_char_suggest_attempts 781
 bad_char_suggest 27931574
 double_two_chars_suggest 399
 two_words_suggest 40021
@@ -501,7 +501,7 @@ extra_char_suggest 166670
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 18742324
 move_char_suggest 814556
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 14324459
 double_two_chars_suggest 254
 two_words_suggest 26006
@@ -520,7 +520,7 @@ extra_char_suggest 589798
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 64351400
 move_char_suggest 4612076
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 52440249
 double_two_chars_suggest 304
 two_words_suggest 78514
@@ -539,7 +539,7 @@ extra_char_suggest 212689
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 27262242
 move_char_suggest 768196
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 19498604
 double_two_chars_suggest 279
 two_words_suggest 40030
@@ -558,7 +558,7 @@ extra_char_suggest 2492763
 forgetten_char_suggest_attempts 1896
 forgoten_char_suggest 228929071
 move_char_suggest 53601030
-bad_char_sugggest_attempts 1794
+bad_char_suggest_attempts 1794
 bad_char_suggest 209362292
 double_two_chars_suggest 589
 two_words_suggest 263626
@@ -577,7 +577,7 @@ extra_char_suggest 1385032
 forgetten_char_suggest_attempts 1501
 forgoten_char_suggest 136935651
 move_char_suggest 24367327
-bad_char_sugggest_attempts 1404
+bad_char_suggest_attempts 1404
 bad_char_suggest 125953926
 double_two_chars_suggest 543
 two_words_suggest 140521
@@ -596,7 +596,7 @@ extra_char_suggest 422422
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 48257555
 move_char_suggest 2880048
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 38211590
 double_two_chars_suggest 309
 two_words_suggest 54366
@@ -615,7 +615,7 @@ extra_char_suggest 455785
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 45586508
 move_char_suggest 3486483
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 37651403
 double_two_chars_suggest 351
 two_words_suggest 100643
@@ -634,7 +634,7 @@ extra_char_suggest 469463
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 47601060
 move_char_suggest 3577752
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 38898137
 double_two_chars_suggest 336
 two_words_suggest 98441
@@ -653,7 +653,7 @@ extra_char_suggest 338547
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 36760528
 move_char_suggest 2438453
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 29631558
 double_two_chars_suggest 293
 two_words_suggest 71856
@@ -672,7 +672,7 @@ extra_char_suggest 66016
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 12152800
 move_char_suggest 142908
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 7023989
 double_two_chars_suggest 105
 two_words_suggest 30489
@@ -691,7 +691,7 @@ extra_char_suggest 33594
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6608897
 move_char_suggest 93688
-bad_char_sugggest_attempts 313
+bad_char_suggest_attempts 313
 bad_char_suggest 4328559
 double_two_chars_suggest 109
 two_words_suggest 10618
@@ -710,7 +710,7 @@ extra_char_suggest 43112
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 7130774
 move_char_suggest 98095
-bad_char_sugggest_attempts 313
+bad_char_suggest_attempts 313
 bad_char_suggest 4245180
 double_two_chars_suggest 105
 two_words_suggest 15830
@@ -726,7 +726,7 @@ extra_char_suggest 34120
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6803595
 move_char_suggest 97095
-bad_char_sugggest_attempts 313
+bad_char_suggest_attempts 313
 bad_char_suggest 4531175
 double_two_chars_suggest 114
 two_words_suggest 10654
@@ -745,7 +745,7 @@ extra_char_suggest 18217
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 3914789
 move_char_suggest 19125
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2097118
 double_two_chars_suggest 105
 two_words_suggest 6583
@@ -764,7 +764,7 @@ extra_char_suggest 181504
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 19013373
 move_char_suggest 631925
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 14050758
 double_two_chars_suggest 260
 two_words_suggest 51092
@@ -783,7 +783,7 @@ extra_char_suggest 281164
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 28178136
 move_char_suggest 1189638
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 22159840
 double_two_chars_suggest 277
 two_words_suggest 68395
@@ -802,7 +802,7 @@ extra_char_suggest 165247
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 17622320
 move_char_suggest 574299
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 15540356
 double_two_chars_suggest 272
 two_words_suggest 42765
@@ -821,7 +821,7 @@ extra_char_suggest 70024
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 9441939
 move_char_suggest 124963
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 6029883
 double_two_chars_suggest 87
 two_words_suggest 25394
@@ -846,7 +846,7 @@ extra_char_suggest 274949
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 36570855
 move_char_suggest 1422845
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 27830870
 double_two_chars_suggest 403
 two_words_suggest 77889
@@ -865,7 +865,7 @@ extra_char_suggest 188119
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 21090390
 move_char_suggest 1135259
-bad_char_sugggest_attempts 625
+bad_char_suggest_attempts 625
 bad_char_suggest 16393703
 double_two_chars_suggest 334
 two_words_suggest 34034
@@ -884,7 +884,7 @@ extra_char_suggest 925556
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 92201358
 move_char_suggest 7864544
-bad_char_sugggest_attempts 936
+bad_char_suggest_attempts 936
 bad_char_suggest 73875927
 double_two_chars_suggest 356
 two_words_suggest 90165
@@ -903,7 +903,7 @@ extra_char_suggest 815853
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 82693891
 move_char_suggest 7445454
-bad_char_sugggest_attempts 936
+bad_char_suggest_attempts 936
 bad_char_suggest 68753078
 double_two_chars_suggest 348
 two_words_suggest 86658
@@ -922,7 +922,7 @@ extra_char_suggest 803008
 forgetten_char_suggest_attempts 1264
 forgoten_char_suggest 81478541
 move_char_suggest 10872944
-bad_char_sugggest_attempts 1172
+bad_char_suggest_attempts 1172
 bad_char_suggest 68932825
 double_two_chars_suggest 394
 two_words_suggest 69995
@@ -938,7 +938,7 @@ extra_char_suggest 981069
 forgetten_char_suggest_attempts 1264
 forgoten_char_suggest 94758442
 move_char_suggest 11135029
-bad_char_sugggest_attempts 1172
+bad_char_suggest_attempts 1172
 bad_char_suggest 75022131
 double_two_chars_suggest 406
 two_words_suggest 84367
@@ -954,7 +954,7 @@ extra_char_suggest 849558
 forgetten_char_suggest_attempts 1264
 forgoten_char_suggest 78943521
 move_char_suggest 11096534
-bad_char_sugggest_attempts 1172
+bad_char_suggest_attempts 1172
 bad_char_suggest 68940458
 double_two_chars_suggest 399
 two_words_suggest 83116
@@ -970,7 +970,7 @@ extra_char_suggest 797948
 forgetten_char_suggest_attempts 1264
 forgoten_char_suggest 77657088
 move_char_suggest 10763915
-bad_char_sugggest_attempts 1172
+bad_char_suggest_attempts 1172
 bad_char_suggest 67945384
 double_two_chars_suggest 435
 two_words_suggest 66592
@@ -989,7 +989,7 @@ extra_char_suggest 295661
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 34985304
 move_char_suggest 1979233
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 26853871
 double_two_chars_suggest 328
 two_words_suggest 63916
@@ -1008,7 +1008,7 @@ extra_char_suggest 155698
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 24804711
 move_char_suggest 1154152
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 18082579
 double_two_chars_suggest 287
 two_words_suggest 43592
@@ -1027,7 +1027,7 @@ extra_char_suggest 1496696
 forgetten_char_suggest_attempts 1580
 forgoten_char_suggest 135754442
 move_char_suggest 26221788
-bad_char_sugggest_attempts 1482
+bad_char_suggest_attempts 1482
 bad_char_suggest 121269485
 double_two_chars_suggest 433
 two_words_suggest 120102
@@ -1046,7 +1046,7 @@ extra_char_suggest 667501
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 72902333
 move_char_suggest 4699336
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 57156896
 double_two_chars_suggest 309
 two_words_suggest 153546
@@ -1065,7 +1065,7 @@ extra_char_suggest 631053
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 61338538
 move_char_suggest 6392608
-bad_char_sugggest_attempts 936
+bad_char_suggest_attempts 936
 bad_char_suggest 52603459
 double_two_chars_suggest 379
 two_words_suggest 93321
@@ -1081,7 +1081,7 @@ extra_char_suggest 651138
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 61785150
 move_char_suggest 6548094
-bad_char_sugggest_attempts 936
+bad_char_suggest_attempts 936
 bad_char_suggest 52467420
 double_two_chars_suggest 373
 two_words_suggest 100049
@@ -1100,7 +1100,7 @@ extra_char_suggest 457479
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 44768397
 move_char_suggest 3698042
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 37011640
 double_two_chars_suggest 357
 two_words_suggest 84688
@@ -1119,7 +1119,7 @@ extra_char_suggest 461461
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 45557478
 move_char_suggest 3590053
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 37639101
 double_two_chars_suggest 340
 two_words_suggest 77183
@@ -1135,7 +1135,7 @@ extra_char_suggest 454164
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 44970245
 move_char_suggest 3749398
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 36922338
 double_two_chars_suggest 356
 two_words_suggest 83893
@@ -1154,7 +1154,7 @@ extra_char_suggest 657072
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 62782856
 move_char_suggest 7429144
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 53698165
 double_two_chars_suggest 369
 two_words_suggest 76398
@@ -1173,7 +1173,7 @@ extra_char_suggest 656939
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 63400217
 move_char_suggest 7249491
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 55102758
 double_two_chars_suggest 355
 two_words_suggest 75344
@@ -1189,7 +1189,7 @@ extra_char_suggest 651622
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 65003819
 move_char_suggest 7948004
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 53875290
 double_two_chars_suggest 379
 two_words_suggest 77591
@@ -1208,7 +1208,7 @@ extra_char_suggest 395112
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 40380076
 move_char_suggest 2651907
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 32851389
 double_two_chars_suggest 344
 two_words_suggest 63773
@@ -1224,7 +1224,7 @@ extra_char_suggest 391212
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 39857620
 move_char_suggest 2714978
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 32349192
 double_two_chars_suggest 362
 two_words_suggest 72842
@@ -1243,7 +1243,7 @@ extra_char_suggest 158348
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 21126263
 move_char_suggest 464762
-bad_char_sugggest_attempts 390
+bad_char_suggest_attempts 390
 bad_char_suggest 14101322
 double_two_chars_suggest 258
 two_words_suggest 51385
@@ -1262,7 +1262,7 @@ extra_char_suggest 2271080
 forgetten_char_suggest_attempts 1817
 forgoten_char_suggest 201979929
 move_char_suggest 45119739
-bad_char_sugggest_attempts 1716
+bad_char_suggest_attempts 1716
 bad_char_suggest 183886795
 double_two_chars_suggest 461
 two_words_suggest 188188
@@ -1278,7 +1278,7 @@ extra_char_suggest 2304986
 forgetten_char_suggest_attempts 1817
 forgoten_char_suggest 203307810
 move_char_suggest 46419810
-bad_char_sugggest_attempts 1716
+bad_char_suggest_attempts 1716
 bad_char_suggest 186408493
 double_two_chars_suggest 472
 two_words_suggest 216704
@@ -1294,7 +1294,7 @@ extra_char_suggest 2348710
 forgetten_char_suggest_attempts 1817
 forgoten_char_suggest 201500815
 move_char_suggest 46730006
-bad_char_sugggest_attempts 1716
+bad_char_suggest_attempts 1716
 bad_char_suggest 184866671
 double_two_chars_suggest 492
 two_words_suggest 210432
@@ -1310,7 +1310,7 @@ extra_char_suggest 2369611
 forgetten_char_suggest_attempts 1817
 forgoten_char_suggest 204729266
 move_char_suggest 46305245
-bad_char_sugggest_attempts 1716
+bad_char_suggest_attempts 1716
 bad_char_suggest 187458430
 double_two_chars_suggest 501
 two_words_suggest 207388
@@ -1329,7 +1329,7 @@ extra_char_suggest 17579
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 7254332
 move_char_suggest 34893
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 3581750
 double_two_chars_suggest 97
 two_words_suggest 5815
@@ -1348,7 +1348,7 @@ extra_char_suggest 413848
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 38576856
 move_char_suggest 2604685
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 30519233
 double_two_chars_suggest 402
 two_words_suggest 44376
@@ -1367,7 +1367,7 @@ extra_char_suggest 883729
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 87154807
 move_char_suggest 7731600
-bad_char_sugggest_attempts 937
+bad_char_suggest_attempts 937
 bad_char_suggest 71544450
 double_two_chars_suggest 377
 two_words_suggest 99218
@@ -1386,7 +1386,7 @@ extra_char_suggest 55617
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 8605672
 move_char_suggest 37553
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 4744304
 double_two_chars_suggest 96
 two_words_suggest 8735
@@ -1405,7 +1405,7 @@ extra_char_suggest 188665
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 21697987
 move_char_suggest 1193909
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 17003074
 double_two_chars_suggest 325
 two_words_suggest 34996
@@ -1421,7 +1421,7 @@ extra_char_suggest 193006
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 22299105
 move_char_suggest 1204785
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 17922864
 double_two_chars_suggest 335
 two_words_suggest 37987
@@ -1440,7 +1440,7 @@ extra_char_suggest 1162899
 forgetten_char_suggest_attempts 1343
 forgoten_char_suggest 109954129
 move_char_suggest 16739275
-bad_char_sugggest_attempts 1248
+bad_char_suggest_attempts 1248
 bad_char_suggest 96710774
 double_two_chars_suggest 475
 two_words_suggest 134447
@@ -1459,7 +1459,7 @@ extra_char_suggest 922423
 forgetten_char_suggest_attempts 1264
 forgoten_char_suggest 88214534
 move_char_suggest 12602920
-bad_char_sugggest_attempts 1170
+bad_char_suggest_attempts 1170
 bad_char_suggest 76872457
 double_two_chars_suggest 496
 two_words_suggest 116334
@@ -1478,7 +1478,7 @@ extra_char_suggest 1172707
 forgetten_char_suggest_attempts 1422
 forgoten_char_suggest 111873248
 move_char_suggest 18762255
-bad_char_sugggest_attempts 1327
+bad_char_suggest_attempts 1327
 bad_char_suggest 99689737
 double_two_chars_suggest 513
 two_words_suggest 129537
@@ -1497,7 +1497,7 @@ extra_char_suggest 1261204
 forgetten_char_suggest_attempts 1422
 forgoten_char_suggest 112604423
 move_char_suggest 18043521
-bad_char_sugggest_attempts 1327
+bad_char_suggest_attempts 1327
 bad_char_suggest 100237829
 double_two_chars_suggest 487
 two_words_suggest 111080
@@ -1513,7 +1513,7 @@ extra_char_suggest 1119975
 forgetten_char_suggest_attempts 1422
 forgoten_char_suggest 111607518
 move_char_suggest 18820804
-bad_char_sugggest_attempts 1327
+bad_char_suggest_attempts 1327
 bad_char_suggest 98951075
 double_two_chars_suggest 476
 two_words_suggest 119904
@@ -1532,7 +1532,7 @@ extra_char_suggest 892770
 forgetten_char_suggest_attempts 1343
 forgoten_char_suggest 90250769
 move_char_suggest 14415358
-bad_char_sugggest_attempts 1249
+bad_char_suggest_attempts 1249
 bad_char_suggest 79230794
 double_two_chars_suggest 525
 two_words_suggest 97339
@@ -1551,7 +1551,7 @@ extra_char_suggest 965751
 forgetten_char_suggest_attempts 1343
 forgoten_char_suggest 91024822
 move_char_suggest 13813554
-bad_char_sugggest_attempts 1249
+bad_char_suggest_attempts 1249
 bad_char_suggest 80110343
 double_two_chars_suggest 499
 two_words_suggest 96871
@@ -1567,7 +1567,7 @@ extra_char_suggest 899502
 forgetten_char_suggest_attempts 1343
 forgoten_char_suggest 90637953
 move_char_suggest 13959242
-bad_char_sugggest_attempts 1249
+bad_char_suggest_attempts 1249
 bad_char_suggest 79704241
 double_two_chars_suggest 492
 two_words_suggest 97451
@@ -1586,7 +1586,7 @@ extra_char_suggest 920604
 forgetten_char_suggest_attempts 1185
 forgoten_char_suggest 88451060
 move_char_suggest 11651452
-bad_char_sugggest_attempts 1092
+bad_char_suggest_attempts 1092
 bad_char_suggest 76465767
 double_two_chars_suggest 504
 two_words_suggest 131226
@@ -1605,7 +1605,7 @@ extra_char_suggest 712274
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 70453457
 move_char_suggest 8264431
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 59927151
 double_two_chars_suggest 574
 two_words_suggest 110590
@@ -1624,7 +1624,7 @@ extra_char_suggest 69415
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 13286027
 move_char_suggest 143202
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 8095352
 double_two_chars_suggest 80
 two_words_suggest 16162
@@ -1643,7 +1643,7 @@ extra_char_suggest 16652
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 5012747
 move_char_suggest 24454
-bad_char_sugggest_attempts 235
+bad_char_suggest_attempts 235
 bad_char_suggest 2850301
 double_two_chars_suggest 100
 two_words_suggest 10466
@@ -1662,7 +1662,7 @@ extra_char_suggest 111381
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 12945096
 move_char_suggest 276354
-bad_char_sugggest_attempts 390
+bad_char_suggest_attempts 390
 bad_char_suggest 9030525
 double_two_chars_suggest 267
 two_words_suggest 27609
@@ -1681,7 +1681,7 @@ extra_char_suggest 171352
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 25106279
 move_char_suggest 606101
-bad_char_sugggest_attempts 469
+bad_char_suggest_attempts 469
 bad_char_suggest 17219421
 double_two_chars_suggest 285
 two_words_suggest 53554
@@ -1700,7 +1700,7 @@ extra_char_suggest 240107
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 35021222
 move_char_suggest 1728687
-bad_char_sugggest_attempts 625
+bad_char_suggest_attempts 625
 bad_char_suggest 26653569
 double_two_chars_suggest 311
 two_words_suggest 32718
@@ -1719,7 +1719,7 @@ extra_char_suggest 52058
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 9249365
 move_char_suggest 101753
-bad_char_sugggest_attempts 313
+bad_char_suggest_attempts 313
 bad_char_suggest 5946242
 double_two_chars_suggest 99
 two_words_suggest 17830
@@ -1738,7 +1738,7 @@ extra_char_suggest 26060
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 6770236
 move_char_suggest 29488
-bad_char_sugggest_attempts 235
+bad_char_suggest_attempts 235
 bad_char_suggest 3611816
 double_two_chars_suggest 97
 two_words_suggest 9187
@@ -1757,7 +1757,7 @@ extra_char_suggest 410132
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 41627648
 move_char_suggest 3737947
-bad_char_sugggest_attempts 860
+bad_char_suggest_attempts 860
 bad_char_suggest 34832993
 double_two_chars_suggest 381
 two_words_suggest 53309
@@ -1776,7 +1776,7 @@ extra_char_suggest 264381
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 31580651
 move_char_suggest 1478813
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 23184000
 double_two_chars_suggest 332
 two_words_suggest 33097
@@ -1795,7 +1795,7 @@ extra_char_suggest 992417
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 100247161
 move_char_suggest 8529782
-bad_char_sugggest_attempts 937
+bad_char_suggest_attempts 937
 bad_char_suggest 82369481
 double_two_chars_suggest 359
 two_words_suggest 126554
@@ -1811,7 +1811,7 @@ extra_char_suggest 991126
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 99040428
 move_char_suggest 8504961
-bad_char_sugggest_attempts 937
+bad_char_suggest_attempts 937
 bad_char_suggest 81779032
 double_two_chars_suggest 325
 two_words_suggest 127468
@@ -1830,7 +1830,7 @@ extra_char_suggest 158142
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 18479938
 move_char_suggest 536376
-bad_char_sugggest_attempts 469
+bad_char_suggest_attempts 469
 bad_char_suggest 13296787
 double_two_chars_suggest 312
 two_words_suggest 37131
@@ -1849,7 +1849,7 @@ extra_char_suggest 18156
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 3891978
 move_char_suggest 19305
-bad_char_sugggest_attempts 235
+bad_char_suggest_attempts 235
 bad_char_suggest 2145943
 double_two_chars_suggest 92
 two_words_suggest 6354
@@ -1868,7 +1868,7 @@ extra_char_suggest 30805
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6452520
 move_char_suggest 82851
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 4154120
 double_two_chars_suggest 133
 two_words_suggest 10185
@@ -1884,7 +1884,7 @@ extra_char_suggest 40271
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6565377
 move_char_suggest 86790
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 4074187
 double_two_chars_suggest 84
 two_words_suggest 11110
@@ -1903,7 +1903,7 @@ extra_char_suggest 254845
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 26795865
 move_char_suggest 1076654
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 20518455
 double_two_chars_suggest 277
 two_words_suggest 43655
@@ -1922,7 +1922,7 @@ extra_char_suggest 370278
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 36911237
 move_char_suggest 2951823
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 30604384
 double_two_chars_suggest 394
 two_words_suggest 45912
@@ -1941,7 +1941,7 @@ extra_char_suggest 437808
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 48911792
 move_char_suggest 4779697
-bad_char_sugggest_attempts 937
+bad_char_suggest_attempts 937
 bad_char_suggest 41347732
 double_two_chars_suggest 445
 two_words_suggest 47848
@@ -1960,7 +1960,7 @@ extra_char_suggest 948104
 forgetten_char_suggest_attempts 1185
 forgoten_char_suggest 89766263
 move_char_suggest 11072418
-bad_char_sugggest_attempts 1092
+bad_char_suggest_attempts 1092
 bad_char_suggest 76620264
 double_two_chars_suggest 376
 two_words_suggest 100644
@@ -1976,7 +1976,7 @@ extra_char_suggest 917585
 forgetten_char_suggest_attempts 1185
 forgoten_char_suggest 87848631
 move_char_suggest 10809228
-bad_char_sugggest_attempts 1092
+bad_char_suggest_attempts 1092
 bad_char_suggest 76231790
 double_two_chars_suggest 388
 two_words_suggest 107824
@@ -1992,7 +1992,7 @@ extra_char_suggest 21979
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 4176357
 move_char_suggest 23545
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2176335
 double_two_chars_suggest 114
 two_words_suggest 7881
@@ -2008,7 +2008,7 @@ extra_char_suggest 20636
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 3957493
 move_char_suggest 23809
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2181183
 double_two_chars_suggest 131
 two_words_suggest 7793
@@ -2027,7 +2027,7 @@ extra_char_suggest 721050
 forgetten_char_suggest_attempts 1185
 forgoten_char_suggest 69904222
 move_char_suggest 8956318
-bad_char_sugggest_attempts 1092
+bad_char_suggest_attempts 1092
 bad_char_suggest 60443510
 double_two_chars_suggest 439
 two_words_suggest 66865
@@ -2043,7 +2043,7 @@ extra_char_suggest 691479
 forgetten_char_suggest_attempts 1185
 forgoten_char_suggest 67934973
 move_char_suggest 8805848
-bad_char_sugggest_attempts 1092
+bad_char_suggest_attempts 1092
 bad_char_suggest 58755050
 double_two_chars_suggest 408
 two_words_suggest 65080
@@ -2059,7 +2059,7 @@ extra_char_suggest 21156
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 4074058
 move_char_suggest 23356
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2194547
 double_two_chars_suggest 98
 two_words_suggest 7902
@@ -2075,7 +2075,7 @@ extra_char_suggest 20355
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 3931488
 move_char_suggest 22785
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2156201
 double_two_chars_suggest 107
 two_words_suggest 8014
@@ -2094,7 +2094,7 @@ extra_char_suggest 679684
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 64794899
 move_char_suggest 7382104
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 55512231
 double_two_chars_suggest 385
 two_words_suggest 63237
@@ -2110,7 +2110,7 @@ extra_char_suggest 632846
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 63140196
 move_char_suggest 7188521
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 54000250
 double_two_chars_suggest 312
 two_words_suggest 61210
@@ -2126,7 +2126,7 @@ extra_char_suggest 21191
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 4117661
 move_char_suggest 27541
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2263142
 double_two_chars_suggest 115
 two_words_suggest 8177
@@ -2142,7 +2142,7 @@ extra_char_suggest 21176
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 4062446
 move_char_suggest 23952
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2187762
 double_two_chars_suggest 82
 two_words_suggest 7897
@@ -2161,7 +2161,7 @@ extra_char_suggest 752027
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 73190665
 move_char_suggest 8046709
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 62665312
 double_two_chars_suggest 391
 two_words_suggest 85871
@@ -2177,7 +2177,7 @@ extra_char_suggest 776461
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 71764497
 move_char_suggest 7938557
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 61502336
 double_two_chars_suggest 334
 two_words_suggest 83022
@@ -2193,7 +2193,7 @@ extra_char_suggest 24491
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 4063527
 move_char_suggest 25455
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2188280
 double_two_chars_suggest 108
 two_words_suggest 7635
@@ -2209,7 +2209,7 @@ extra_char_suggest 20545
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 4019362
 move_char_suggest 23796
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2172889
 double_two_chars_suggest 81
 two_words_suggest 7601
@@ -2228,7 +2228,7 @@ extra_char_suggest 443693
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 43736807
 move_char_suggest 3881941
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 36214252
 double_two_chars_suggest 384
 two_words_suggest 59306
@@ -2244,7 +2244,7 @@ extra_char_suggest 427602
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 42820715
 move_char_suggest 3785360
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 35170038
 double_two_chars_suggest 374
 two_words_suggest 57229
@@ -2260,7 +2260,7 @@ extra_char_suggest 21350
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 4082995
 move_char_suggest 23168
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2226124
 double_two_chars_suggest 109
 two_words_suggest 8183
@@ -2276,7 +2276,7 @@ extra_char_suggest 21263
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 4079954
 move_char_suggest 23693
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2172571
 double_two_chars_suggest 76
 two_words_suggest 7762
@@ -2295,7 +2295,7 @@ extra_char_suggest 466258
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 47332350
 move_char_suggest 3561828
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 38751196
 double_two_chars_suggest 344
 two_words_suggest 63251
@@ -2311,7 +2311,7 @@ extra_char_suggest 456808
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 47271533
 move_char_suggest 3591340
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 39091996
 double_two_chars_suggest 337
 two_words_suggest 67494
@@ -2327,7 +2327,7 @@ extra_char_suggest 477197
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 48367622
 move_char_suggest 3664040
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 39792542
 double_two_chars_suggest 297
 two_words_suggest 68734
@@ -2343,7 +2343,7 @@ extra_char_suggest 486481
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 47264994
 move_char_suggest 3547575
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 39001746
 double_two_chars_suggest 324
 two_words_suggest 67440
@@ -2359,7 +2359,7 @@ extra_char_suggest 45224
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6704887
 move_char_suggest 91353
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 4395491
 double_two_chars_suggest 107
 two_words_suggest 13517
@@ -2375,7 +2375,7 @@ extra_char_suggest 36108
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6802862
 move_char_suggest 92856
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 4357765
 double_two_chars_suggest 80
 two_words_suggest 13012
@@ -2394,7 +2394,7 @@ extra_char_suggest 74957
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 9848511
 move_char_suggest 216088
-bad_char_sugggest_attempts 390
+bad_char_suggest_attempts 390
 bad_char_suggest 6607541
 double_two_chars_suggest 225
 two_words_suggest 16915
@@ -2410,7 +2410,7 @@ extra_char_suggest 75171
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 9570463
 move_char_suggest 213917
-bad_char_sugggest_attempts 390
+bad_char_suggest_attempts 390
 bad_char_suggest 6605053
 double_two_chars_suggest 241
 two_words_suggest 17395
@@ -2429,7 +2429,7 @@ extra_char_suggest 45198
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6688562
 move_char_suggest 88506
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 4417895
 double_two_chars_suggest 119
 two_words_suggest 13657
@@ -2445,7 +2445,7 @@ extra_char_suggest 35115
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6812595
 move_char_suggest 92563
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 4355732
 double_two_chars_suggest 104
 two_words_suggest 12748
@@ -2464,7 +2464,7 @@ extra_char_suggest 23738
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 4298792
 move_char_suggest 25641
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2375885
 double_two_chars_suggest 110
 two_words_suggest 9613
@@ -2480,7 +2480,7 @@ extra_char_suggest 24165
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 4370210
 move_char_suggest 25092
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2405742
 double_two_chars_suggest 60
 two_words_suggest 9492
@@ -2499,7 +2499,7 @@ extra_char_suggest 501028
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 61282766
 move_char_suggest 3849682
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 47187150
 double_two_chars_suggest 369
 two_words_suggest 62938
@@ -2518,7 +2518,7 @@ extra_char_suggest 2124110
 forgetten_char_suggest_attempts 1501
 forgoten_char_suggest 196092078
 move_char_suggest 27397592
-bad_char_sugggest_attempts 1404
+bad_char_suggest_attempts 1404
 bad_char_suggest 167678556
 double_two_chars_suggest 561
 two_words_suggest 120633
@@ -2537,7 +2537,7 @@ extra_char_suggest 578857
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 57989331
 move_char_suggest 4446063
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 47014707
 double_two_chars_suggest 342
 two_words_suggest 46184
@@ -2556,7 +2556,7 @@ extra_char_suggest 917059
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 97737903
 move_char_suggest 9443025
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 81958155
 double_two_chars_suggest 367
 two_words_suggest 72723
@@ -2578,7 +2578,7 @@ extra_char_suggest 1192848
 forgetten_char_suggest_attempts 1185
 forgoten_char_suggest 120355773
 move_char_suggest 13028712
-bad_char_sugggest_attempts 1092
+bad_char_suggest_attempts 1092
 bad_char_suggest 101810867
 double_two_chars_suggest 394
 two_words_suggest 105406
@@ -2597,7 +2597,7 @@ extra_char_suggest 199772
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 21860031
 move_char_suggest 1245941
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 17425468
 double_two_chars_suggest 356
 two_words_suggest 30982
@@ -2613,7 +2613,7 @@ extra_char_suggest 208520
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 22391013
 move_char_suggest 1231293
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 17544784
 double_two_chars_suggest 311
 two_words_suggest 32168
@@ -2632,7 +2632,7 @@ extra_char_suggest 165256
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 24133335
 move_char_suggest 652872
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 16511560
 double_two_chars_suggest 271
 two_words_suggest 33783
@@ -2651,7 +2651,7 @@ extra_char_suggest 1067974
 forgetten_char_suggest_attempts 1343
 forgoten_char_suggest 92212209
 move_char_suggest 15110293
-bad_char_sugggest_attempts 1248
+bad_char_suggest_attempts 1248
 bad_char_suggest 81368550
 double_two_chars_suggest 405
 two_words_suggest 92612
@@ -2670,7 +2670,7 @@ extra_char_suggest 300404
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 28645979
 move_char_suggest 1385275
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 21736847
 double_two_chars_suggest 337
 two_words_suggest 79180
@@ -2689,7 +2689,7 @@ extra_char_suggest 118480
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 14907951
 move_char_suggest 342786
-bad_char_sugggest_attempts 390
+bad_char_suggest_attempts 390
 bad_char_suggest 10527837
 double_two_chars_suggest 217
 two_words_suggest 35059
@@ -2708,7 +2708,7 @@ extra_char_suggest 318903
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 35195188
 move_char_suggest 2645518
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 28228904
 double_two_chars_suggest 357
 two_words_suggest 45527
@@ -2724,7 +2724,7 @@ extra_char_suggest 336141
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 35083938
 move_char_suggest 2808262
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 28767023
 double_two_chars_suggest 335
 two_words_suggest 43047
@@ -2740,7 +2740,7 @@ extra_char_suggest 344779
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 36329843
 move_char_suggest 2828969
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 29578739
 double_two_chars_suggest 382
 two_words_suggest 52574
@@ -2756,7 +2756,7 @@ extra_char_suggest 329989
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 34895192
 move_char_suggest 2639050
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 28179999
 double_two_chars_suggest 255
 two_words_suggest 43528
@@ -2775,7 +2775,7 @@ extra_char_suggest 437660
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 45515166
 move_char_suggest 4039055
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 38448817
 double_two_chars_suggest 390
 two_words_suggest 43164
@@ -2791,7 +2791,7 @@ extra_char_suggest 460892
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 46294790
 move_char_suggest 4102693
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 38314971
 double_two_chars_suggest 348
 two_words_suggest 48446
@@ -2807,7 +2807,7 @@ extra_char_suggest 468055
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 46864069
 move_char_suggest 4147145
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 39567129
 double_two_chars_suggest 330
 two_words_suggest 69480
@@ -2823,7 +2823,7 @@ extra_char_suggest 448409
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 45285386
 move_char_suggest 4000309
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 38039822
 double_two_chars_suggest 384
 two_words_suggest 42241
@@ -2839,7 +2839,7 @@ extra_char_suggest 257184
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 31463672
 move_char_suggest 1111215
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 23541049
 double_two_chars_suggest 297
 two_words_suggest 52828
@@ -2858,7 +2858,7 @@ extra_char_suggest 310655
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 33913609
 move_char_suggest 2530343
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 27189423
 double_two_chars_suggest 361
 two_words_suggest 40500
@@ -2874,7 +2874,7 @@ extra_char_suggest 325063
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 33971744
 move_char_suggest 2664108
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 27721712
 double_two_chars_suggest 350
 two_words_suggest 41904
@@ -2890,7 +2890,7 @@ extra_char_suggest 319411
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 34772726
 move_char_suggest 2700559
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 28299813
 double_two_chars_suggest 297
 two_words_suggest 46634
@@ -2906,7 +2906,7 @@ extra_char_suggest 315900
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 33420391
 move_char_suggest 2571381
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 26997211
 double_two_chars_suggest 365
 two_words_suggest 39049
@@ -2922,7 +2922,7 @@ extra_char_suggest 153091
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 20605985
 move_char_suggest 534358
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 14497659
 double_two_chars_suggest 265
 two_words_suggest 29269
@@ -2941,7 +2941,7 @@ extra_char_suggest 346527
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 36134554
 move_char_suggest 2850953
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 29223365
 double_two_chars_suggest 410
 two_words_suggest 49861
@@ -2957,7 +2957,7 @@ extra_char_suggest 348859
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 36089769
 move_char_suggest 2878981
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 29573884
 double_two_chars_suggest 303
 two_words_suggest 49624
@@ -2973,7 +2973,7 @@ extra_char_suggest 350780
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 36792332
 move_char_suggest 2859904
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 30387600
 double_two_chars_suggest 348
 two_words_suggest 58925
@@ -2989,7 +2989,7 @@ extra_char_suggest 345622
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 35618529
 move_char_suggest 2765338
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 29427120
 double_two_chars_suggest 458
 two_words_suggest 50644
@@ -3008,7 +3008,7 @@ extra_char_suggest 405036
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 41126504
 move_char_suggest 3689972
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 34182886
 double_two_chars_suggest 381
 two_words_suggest 49494
@@ -3024,7 +3024,7 @@ extra_char_suggest 405393
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 41537234
 move_char_suggest 3785794
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 34361470
 double_two_chars_suggest 387
 two_words_suggest 50482
@@ -3040,7 +3040,7 @@ extra_char_suggest 424298
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 43140796
 move_char_suggest 3758659
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 35971724
 double_two_chars_suggest 415
 two_words_suggest 61041
@@ -3056,7 +3056,7 @@ extra_char_suggest 404681
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 40764568
 move_char_suggest 3722894
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 33819937
 double_two_chars_suggest 326
 two_words_suggest 47306
@@ -3075,7 +3075,7 @@ extra_char_suggest 265271
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 28155050
 move_char_suggest 1865833
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 22820030
 double_two_chars_suggest 299
 two_words_suggest 37054
@@ -3091,7 +3091,7 @@ extra_char_suggest 262364
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 28926536
 move_char_suggest 1966433
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 23119807
 double_two_chars_suggest 337
 two_words_suggest 38651
@@ -3107,7 +3107,7 @@ extra_char_suggest 284192
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 29779950
 move_char_suggest 2066146
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 24061923
 double_two_chars_suggest 328
 two_words_suggest 47723
@@ -3123,7 +3123,7 @@ extra_char_suggest 260550
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 28747516
 move_char_suggest 1970796
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 22873026
 double_two_chars_suggest 354
 two_words_suggest 40607
@@ -3142,7 +3142,7 @@ extra_char_suggest 337562
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 36280042
 move_char_suggest 2863333
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 29404657
 double_two_chars_suggest 385
 two_words_suggest 51511
@@ -3158,7 +3158,7 @@ extra_char_suggest 354511
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 36501557
 move_char_suggest 2840225
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 29640212
 double_two_chars_suggest 326
 two_words_suggest 50432
@@ -3174,7 +3174,7 @@ extra_char_suggest 359929
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 36942881
 move_char_suggest 2868982
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 30086386
 double_two_chars_suggest 390
 two_words_suggest 57345
@@ -3190,7 +3190,7 @@ extra_char_suggest 345849
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 36778212
 move_char_suggest 2927569
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 29779474
 double_two_chars_suggest 297
 two_words_suggest 53362
@@ -3209,7 +3209,7 @@ extra_char_suggest 722044
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 68308864
 move_char_suggest 6873844
-bad_char_sugggest_attempts 936
+bad_char_suggest_attempts 936
 bad_char_suggest 57574616
 double_two_chars_suggest 347
 two_words_suggest 61830
@@ -3225,7 +3225,7 @@ extra_char_suggest 739259
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 69085034
 move_char_suggest 6850982
-bad_char_sugggest_attempts 936
+bad_char_suggest_attempts 936
 bad_char_suggest 59037185
 double_two_chars_suggest 365
 two_words_suggest 82705
@@ -3241,7 +3241,7 @@ extra_char_suggest 744389
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 70623457
 move_char_suggest 6988479
-bad_char_sugggest_attempts 936
+bad_char_suggest_attempts 936
 bad_char_suggest 59645720
 double_two_chars_suggest 380
 two_words_suggest 124516
@@ -3257,7 +3257,7 @@ extra_char_suggest 728961
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 68526105
 move_char_suggest 6892706
-bad_char_sugggest_attempts 936
+bad_char_suggest_attempts 936
 bad_char_suggest 58604939
 double_two_chars_suggest 356
 two_words_suggest 67454
@@ -3276,7 +3276,7 @@ extra_char_suggest 825355
 forgetten_char_suggest_attempts 1343
 forgoten_char_suggest 78113909
 move_char_suggest 11330731
-bad_char_sugggest_attempts 1248
+bad_char_suggest_attempts 1248
 bad_char_suggest 68085933
 double_two_chars_suggest 440
 two_words_suggest 62884
@@ -3292,7 +3292,7 @@ extra_char_suggest 843919
 forgetten_char_suggest_attempts 1343
 forgoten_char_suggest 79199460
 move_char_suggest 11923896
-bad_char_sugggest_attempts 1248
+bad_char_suggest_attempts 1248
 bad_char_suggest 69680714
 double_two_chars_suggest 369
 two_words_suggest 61552
@@ -3308,7 +3308,7 @@ extra_char_suggest 824714
 forgetten_char_suggest_attempts 1343
 forgoten_char_suggest 81402670
 move_char_suggest 11964219
-bad_char_sugggest_attempts 1248
+bad_char_suggest_attempts 1248
 bad_char_suggest 70326485
 double_two_chars_suggest 437
 two_words_suggest 70954
@@ -3324,7 +3324,7 @@ extra_char_suggest 837123
 forgetten_char_suggest_attempts 1343
 forgoten_char_suggest 79159582
 move_char_suggest 11730971
-bad_char_sugggest_attempts 1248
+bad_char_suggest_attempts 1248
 bad_char_suggest 69354709
 double_two_chars_suggest 426
 two_words_suggest 64771
@@ -3343,7 +3343,7 @@ extra_char_suggest 146735
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 17644257
 move_char_suggest 758018
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 13479588
 double_two_chars_suggest 291
 two_words_suggest 25804
@@ -3359,7 +3359,7 @@ extra_char_suggest 154871
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 18226786
 move_char_suggest 801707
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 13684714
 double_two_chars_suggest 248
 two_words_suggest 26503
@@ -3375,7 +3375,7 @@ extra_char_suggest 158299
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 18569914
 move_char_suggest 849804
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 14211689
 double_two_chars_suggest 252
 two_words_suggest 33561
@@ -3391,7 +3391,7 @@ extra_char_suggest 151599
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 18168967
 move_char_suggest 822887
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 13650597
 double_two_chars_suggest 276
 two_words_suggest 28707
@@ -3410,7 +3410,7 @@ extra_char_suggest 275846
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 29776591
 move_char_suggest 1956312
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 23884403
 double_two_chars_suggest 323
 two_words_suggest 36963
@@ -3426,7 +3426,7 @@ extra_char_suggest 272367
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 30533267
 move_char_suggest 2012253
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 24462665
 double_two_chars_suggest 389
 two_words_suggest 38567
@@ -3442,7 +3442,7 @@ extra_char_suggest 290075
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 30825444
 move_char_suggest 1966454
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 25088348
 double_two_chars_suggest 356
 two_words_suggest 56777
@@ -3458,7 +3458,7 @@ extra_char_suggest 284203
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 30588679
 move_char_suggest 2009739
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 24622835
 double_two_chars_suggest 425
 two_words_suggest 40120
@@ -3477,7 +3477,7 @@ extra_char_suggest 405437
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 41313916
 move_char_suggest 3735537
-bad_char_sugggest_attempts 859
+bad_char_suggest_attempts 859
 bad_char_suggest 34484217
 double_two_chars_suggest 364
 two_words_suggest 52129
@@ -3493,7 +3493,7 @@ extra_char_suggest 382298
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 42269528
 move_char_suggest 3788224
-bad_char_sugggest_attempts 859
+bad_char_suggest_attempts 859
 bad_char_suggest 35193454
 double_two_chars_suggest 313
 two_words_suggest 51969
@@ -3509,7 +3509,7 @@ extra_char_suggest 429540
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 43307648
 move_char_suggest 3871662
-bad_char_sugggest_attempts 859
+bad_char_suggest_attempts 859
 bad_char_suggest 36205416
 double_two_chars_suggest 334
 two_words_suggest 62457
@@ -3525,7 +3525,7 @@ extra_char_suggest 410616
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 42175811
 move_char_suggest 3786660
-bad_char_sugggest_attempts 859
+bad_char_suggest_attempts 859
 bad_char_suggest 34620693
 double_two_chars_suggest 286
 two_words_suggest 51973
@@ -3544,7 +3544,7 @@ extra_char_suggest 713868
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 70049205
 move_char_suggest 7654563
-bad_char_sugggest_attempts 1015
+bad_char_suggest_attempts 1015
 bad_char_suggest 60293019
 double_two_chars_suggest 382
 two_words_suggest 64663
@@ -3560,7 +3560,7 @@ extra_char_suggest 717844
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 70650763
 move_char_suggest 7976666
-bad_char_sugggest_attempts 1015
+bad_char_suggest_attempts 1015
 bad_char_suggest 61040371
 double_two_chars_suggest 377
 two_words_suggest 78986
@@ -3576,7 +3576,7 @@ extra_char_suggest 757577
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 72712798
 move_char_suggest 7889897
-bad_char_sugggest_attempts 1015
+bad_char_suggest_attempts 1015
 bad_char_suggest 62256633
 double_two_chars_suggest 354
 two_words_suggest 117752
@@ -3592,7 +3592,7 @@ extra_char_suggest 764451
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 70302486
 move_char_suggest 7828174
-bad_char_sugggest_attempts 1015
+bad_char_suggest_attempts 1015
 bad_char_suggest 60172973
 double_two_chars_suggest 375
 two_words_suggest 67541
@@ -3611,7 +3611,7 @@ extra_char_suggest 613197
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 59343470
 move_char_suggest 6807241
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 50690164
 double_two_chars_suggest 391
 two_words_suggest 71072
@@ -3627,7 +3627,7 @@ extra_char_suggest 623215
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 59864201
 move_char_suggest 6644078
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 50828751
 double_two_chars_suggest 324
 two_words_suggest 72942
@@ -3643,7 +3643,7 @@ extra_char_suggest 604894
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 60822003
 move_char_suggest 6993626
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 52079025
 double_two_chars_suggest 357
 two_words_suggest 84397
@@ -3659,7 +3659,7 @@ extra_char_suggest 620280
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 60325102
 move_char_suggest 6925473
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 51283019
 double_two_chars_suggest 358
 two_words_suggest 74592
@@ -3678,7 +3678,7 @@ extra_char_suggest 426094
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 44265994
 move_char_suggest 3398881
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 35863377
 double_two_chars_suggest 364
 two_words_suggest 42871
@@ -3694,7 +3694,7 @@ extra_char_suggest 444541
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 45028846
 move_char_suggest 3426594
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 36754312
 double_two_chars_suggest 314
 two_words_suggest 58448
@@ -3710,7 +3710,7 @@ extra_char_suggest 462749
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 46093758
 move_char_suggest 3455946
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 37933182
 double_two_chars_suggest 366
 two_words_suggest 105212
@@ -3726,7 +3726,7 @@ extra_char_suggest 457368
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 44290810
 move_char_suggest 3472479
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 36425724
 double_two_chars_suggest 324
 two_words_suggest 45477
@@ -3745,7 +3745,7 @@ extra_char_suggest 146846
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 17656105
 move_char_suggest 767145
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 13486211
 double_two_chars_suggest 349
 two_words_suggest 26760
@@ -3761,7 +3761,7 @@ extra_char_suggest 153868
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 18298960
 move_char_suggest 793343
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 13602787
 double_two_chars_suggest 230
 two_words_suggest 27114
@@ -3777,7 +3777,7 @@ extra_char_suggest 157811
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 18539369
 move_char_suggest 794409
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 14221342
 double_two_chars_suggest 261
 two_words_suggest 36068
@@ -3793,7 +3793,7 @@ extra_char_suggest 151209
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 18152234
 move_char_suggest 803048
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 13623615
 double_two_chars_suggest 253
 two_words_suggest 28420
@@ -3812,7 +3812,7 @@ extra_char_suggest 604172
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 57509006
 move_char_suggest 6653928
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 49240083
 double_two_chars_suggest 401
 two_words_suggest 49786
@@ -3828,7 +3828,7 @@ extra_char_suggest 608344
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 58711701
 move_char_suggest 6490860
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 50239144
 double_two_chars_suggest 334
 two_words_suggest 56067
@@ -3844,7 +3844,7 @@ extra_char_suggest 625466
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 59497681
 move_char_suggest 6831473
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 50388043
 double_two_chars_suggest 338
 two_words_suggest 70846
@@ -3860,7 +3860,7 @@ extra_char_suggest 584523
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 58964931
 move_char_suggest 6656758
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 50434977
 double_two_chars_suggest 322
 two_words_suggest 60711
@@ -3879,7 +3879,7 @@ extra_char_suggest 407232
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 41755839
 move_char_suggest 3670873
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 34287391
 double_two_chars_suggest 391
 two_words_suggest 55119
@@ -3895,7 +3895,7 @@ extra_char_suggest 405522
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 42353151
 move_char_suggest 3743828
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 35547249
 double_two_chars_suggest 315
 two_words_suggest 55085
@@ -3911,7 +3911,7 @@ extra_char_suggest 436880
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 43968126
 move_char_suggest 3804390
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 36181651
 double_two_chars_suggest 342
 two_words_suggest 67526
@@ -3927,7 +3927,7 @@ extra_char_suggest 383177
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 40032150
 move_char_suggest 3516879
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 33299638
 double_two_chars_suggest 352
 two_words_suggest 45376
@@ -3946,7 +3946,7 @@ extra_char_suggest 784913
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 72250316
 move_char_suggest 8075836
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 61063956
 double_two_chars_suggest 382
 two_words_suggest 70266
@@ -3962,7 +3962,7 @@ extra_char_suggest 749400
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 72427402
 move_char_suggest 8212599
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 61671909
 double_two_chars_suggest 366
 two_words_suggest 80223
@@ -3978,7 +3978,7 @@ extra_char_suggest 777017
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 73133289
 move_char_suggest 8180890
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 62876749
 double_two_chars_suggest 369
 two_words_suggest 113295
@@ -3994,7 +3994,7 @@ extra_char_suggest 752090
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 71524952
 move_char_suggest 8062230
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 61335909
 double_two_chars_suggest 428
 two_words_suggest 69070
@@ -4013,7 +4013,7 @@ extra_char_suggest 1014265
 forgetten_char_suggest_attempts 1264
 forgoten_char_suggest 93787621
 move_char_suggest 12954161
-bad_char_sugggest_attempts 1170
+bad_char_suggest_attempts 1170
 bad_char_suggest 81370487
 double_two_chars_suggest 413
 two_words_suggest 83641
@@ -4029,7 +4029,7 @@ extra_char_suggest 1086464
 forgetten_char_suggest_attempts 1264
 forgoten_char_suggest 96092729
 move_char_suggest 13202845
-bad_char_sugggest_attempts 1170
+bad_char_suggest_attempts 1170
 bad_char_suggest 83861553
 double_two_chars_suggest 399
 two_words_suggest 101234
@@ -4045,7 +4045,7 @@ extra_char_suggest 1054268
 forgetten_char_suggest_attempts 1264
 forgoten_char_suggest 96772614
 move_char_suggest 13318325
-bad_char_sugggest_attempts 1170
+bad_char_suggest_attempts 1170
 bad_char_suggest 84379849
 double_two_chars_suggest 449
 two_words_suggest 137946
@@ -4061,7 +4061,7 @@ extra_char_suggest 1016725
 forgetten_char_suggest_attempts 1264
 forgoten_char_suggest 93841842
 move_char_suggest 13006973
-bad_char_sugggest_attempts 1170
+bad_char_suggest_attempts 1170
 bad_char_suggest 82169992
 double_two_chars_suggest 407
 two_words_suggest 86076
@@ -4080,7 +4080,7 @@ extra_char_suggest 196152
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 22386203
 move_char_suggest 1224213
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 17312653
 double_two_chars_suggest 322
 two_words_suggest 30590
@@ -4096,7 +4096,7 @@ extra_char_suggest 213349
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 23016383
 move_char_suggest 1227657
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 18075922
 double_two_chars_suggest 320
 two_words_suggest 31735
@@ -4112,7 +4112,7 @@ extra_char_suggest 211164
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 23856696
 move_char_suggest 1268918
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 18420589
 double_two_chars_suggest 291
 two_words_suggest 43715
@@ -4128,7 +4128,7 @@ extra_char_suggest 202193
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 23002912
 move_char_suggest 1279742
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 17772910
 double_two_chars_suggest 278
 two_words_suggest 32396
@@ -4147,7 +4147,7 @@ extra_char_suggest 346040
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 36956655
 move_char_suggest 2331168
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 30099934
 double_two_chars_suggest 324
 two_words_suggest 38760
@@ -4163,7 +4163,7 @@ extra_char_suggest 356016
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 38126622
 move_char_suggest 2390893
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 30435148
 double_two_chars_suggest 364
 two_words_suggest 55383
@@ -4179,7 +4179,7 @@ extra_char_suggest 384026
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 38924647
 move_char_suggest 2534300
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 31302567
 double_two_chars_suggest 399
 two_words_suggest 89772
@@ -4195,7 +4195,7 @@ extra_char_suggest 368666
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 38171847
 move_char_suggest 2478963
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 30471808
 double_two_chars_suggest 231
 two_words_suggest 41583
@@ -4214,7 +4214,7 @@ extra_char_suggest 272725
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 27768441
 move_char_suggest 1507030
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 22118735
 double_two_chars_suggest 321
 two_words_suggest 52811
@@ -4233,7 +4233,7 @@ extra_char_suggest 565303
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 54510895
 move_char_suggest 5588520
-bad_char_sugggest_attempts 936
+bad_char_suggest_attempts 936
 bad_char_suggest 45920126
 double_two_chars_suggest 404
 two_words_suggest 72224
@@ -4252,7 +4252,7 @@ extra_char_suggest 23978
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 4288913
 move_char_suggest 26348
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2224832
 double_two_chars_suggest 120
 two_words_suggest 9341
@@ -4271,7 +4271,7 @@ extra_char_suggest 206826
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 21588822
 move_char_suggest 988419
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 16519995
 double_two_chars_suggest 299
 two_words_suggest 47104
@@ -4290,7 +4290,7 @@ extra_char_suggest 48833
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 9570426
 move_char_suggest 120612
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 6122235
 double_two_chars_suggest 93
 two_words_suggest 10639
@@ -4309,7 +4309,7 @@ extra_char_suggest 1650
 forgetten_char_suggest_attempts 237
 forgoten_char_suggest 3056963
 move_char_suggest 108
-bad_char_sugggest_attempts 156
+bad_char_suggest_attempts 156
 bad_char_suggest 1456023
 double_two_chars_suggest 99
 two_words_suggest 3789
@@ -4328,7 +4328,7 @@ extra_char_suggest 171394
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 19549771
 move_char_suggest 841027
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 15000416
 double_two_chars_suggest 410
 two_words_suggest 28776
@@ -4347,7 +4347,7 @@ extra_char_suggest 147226
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 16968445
 move_char_suggest 564367
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 12433851
 double_two_chars_suggest 302
 two_words_suggest 32919
@@ -4366,7 +4366,7 @@ extra_char_suggest 312864
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 32887876
 move_char_suggest 2634744
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 26930573
 double_two_chars_suggest 54574
 two_words_suggest 42446
@@ -4385,7 +4385,7 @@ extra_char_suggest 269294
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 26785890
 move_char_suggest 1865601
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 21641695
 double_two_chars_suggest 23237
 two_words_suggest 34221
@@ -4404,7 +4404,7 @@ extra_char_suggest 249444
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 27105456
 move_char_suggest 1079638
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 19608751
 double_two_chars_suggest 324
 two_words_suggest 50135
@@ -4423,7 +4423,7 @@ extra_char_suggest 117629
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 16179198
 move_char_suggest 571011
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 12100544
 double_two_chars_suggest 287
 two_words_suggest 33843
@@ -4442,7 +4442,7 @@ extra_char_suggest 1179931
 forgetten_char_suggest_attempts 1343
 forgoten_char_suggest 107474730
 move_char_suggest 15788707
-bad_char_sugggest_attempts 1248
+bad_char_suggest_attempts 1248
 bad_char_suggest 94285766
 double_two_chars_suggest 398
 two_words_suggest 170434
@@ -4461,7 +4461,7 @@ extra_char_suggest 254312
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 28036601
 move_char_suggest 1174632
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 21618548
 double_two_chars_suggest 375
 two_words_suggest 68345
@@ -4480,7 +4480,7 @@ extra_char_suggest 156297
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 18340195
 move_char_suggest 584741
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 13802479
 double_two_chars_suggest 302
 two_words_suggest 46001
@@ -4499,7 +4499,7 @@ extra_char_suggest 58517
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 11340848
 move_char_suggest 134698
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 6836483
 double_two_chars_suggest 108
 two_words_suggest 16945
@@ -4518,7 +4518,7 @@ extra_char_suggest 96057
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 11853962
 move_char_suggest 290354
-bad_char_sugggest_attempts 390
+bad_char_suggest_attempts 390
 bad_char_suggest 7898909
 double_two_chars_suggest 236
 two_words_suggest 29483
@@ -4534,7 +4534,7 @@ extra_char_suggest 91721
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 11689328
 move_char_suggest 278549
-bad_char_sugggest_attempts 390
+bad_char_suggest_attempts 390
 bad_char_suggest 7988174
 double_two_chars_suggest 230
 two_words_suggest 26493
@@ -4553,7 +4553,7 @@ extra_char_suggest 1887724
 forgetten_char_suggest_attempts 1343
 forgoten_char_suggest 166996878
 move_char_suggest 23871271
-bad_char_sugggest_attempts 1248
+bad_char_suggest_attempts 1248
 bad_char_suggest 143614709
 double_two_chars_suggest 535
 two_words_suggest 145700
@@ -4572,7 +4572,7 @@ extra_char_suggest 240566
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 36152666
 move_char_suggest 1210537
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 24235122
 double_two_chars_suggest 302
 two_words_suggest 36418
@@ -4591,7 +4591,7 @@ extra_char_suggest 556409
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 54721413
 move_char_suggest 3788870
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 42201501
 double_two_chars_suggest 156860
 two_words_suggest 65245
@@ -4610,7 +4610,7 @@ extra_char_suggest 424435
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 43028329
 move_char_suggest 2483069
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 32446783
 double_two_chars_suggest 94363
 two_words_suggest 61855
@@ -4629,7 +4629,7 @@ extra_char_suggest 319140
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 32587075
 move_char_suggest 1475724
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 23290397
 double_two_chars_suggest 38094
 two_words_suggest 54703
@@ -4648,7 +4648,7 @@ extra_char_suggest 258346
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 28223178
 move_char_suggest 1272730
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 20542628
 double_two_chars_suggest 411
 two_words_suggest 36742
@@ -4667,7 +4667,7 @@ extra_char_suggest 575293
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 59831212
 move_char_suggest 3633041
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 46723346
 double_two_chars_suggest 415
 two_words_suggest 92264
@@ -4686,7 +4686,7 @@ extra_char_suggest 243770
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 28234894
 move_char_suggest 1162068
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 20427598
 double_two_chars_suggest 340
 two_words_suggest 35630
@@ -4705,7 +4705,7 @@ extra_char_suggest 212014
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 23812295
 move_char_suggest 848804
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 16195907
 double_two_chars_suggest 350
 two_words_suggest 40370
@@ -4724,7 +4724,7 @@ extra_char_suggest 377758
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 40191344
 move_char_suggest 1980637
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 30500095
 double_two_chars_suggest 315
 two_words_suggest 69704
@@ -4743,7 +4743,7 @@ extra_char_suggest 916488
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 89926981
 move_char_suggest 7144736
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 72702921
 double_two_chars_suggest 339
 two_words_suggest 122296
@@ -4762,7 +4762,7 @@ extra_char_suggest 610869
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 62596929
 move_char_suggest 4363223
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 50038990
 double_two_chars_suggest 320
 two_words_suggest 74060
@@ -4781,7 +4781,7 @@ extra_char_suggest 213317
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 25376492
 move_char_suggest 1003337
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 18382940
 double_two_chars_suggest 271
 two_words_suggest 28480
@@ -4800,7 +4800,7 @@ extra_char_suggest 71709
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 13520268
 move_char_suggest 294315
-bad_char_sugggest_attempts 390
+bad_char_suggest_attempts 390
 bad_char_suggest 8790685
 double_two_chars_suggest 221
 two_words_suggest 20837
@@ -4819,7 +4819,7 @@ extra_char_suggest 978229
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 99533972
 move_char_suggest 7538150
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 79685201
 double_two_chars_suggest 441
 two_words_suggest 77878
@@ -4838,7 +4838,7 @@ extra_char_suggest 678205
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 72756172
 move_char_suggest 4718254
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 56804678
 double_two_chars_suggest 388
 two_words_suggest 51782
@@ -4860,7 +4860,7 @@ extra_char_suggest 649588
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 67296030
 move_char_suggest 5256083
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 53865573
 double_two_chars_suggest 376
 two_words_suggest 52711
@@ -4879,7 +4879,7 @@ extra_char_suggest 131635
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 20510277
 move_char_suggest 636809
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 13797602
 double_two_chars_suggest 328
 two_words_suggest 20175
@@ -4898,7 +4898,7 @@ extra_char_suggest 44990
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6881537
 move_char_suggest 78791
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 4555536
 double_two_chars_suggest 134
 two_words_suggest 12391
@@ -4917,7 +4917,7 @@ extra_char_suggest 19569
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 3994414
 move_char_suggest 20264
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2222731
 double_two_chars_suggest 131
 two_words_suggest 6983
@@ -4936,7 +4936,7 @@ extra_char_suggest 100358
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 12811038
 move_char_suggest 257084
-bad_char_sugggest_attempts 390
+bad_char_suggest_attempts 390
 bad_char_suggest 9028677
 double_two_chars_suggest 226
 two_words_suggest 29827
@@ -4955,7 +4955,7 @@ extra_char_suggest 96472
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 12574820
 move_char_suggest 263845
-bad_char_sugggest_attempts 390
+bad_char_suggest_attempts 390
 bad_char_suggest 8865121
 double_two_chars_suggest 244
 two_words_suggest 23063
@@ -4974,7 +4974,7 @@ extra_char_suggest 59386
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 9936365
 move_char_suggest 226947
-bad_char_sugggest_attempts 391
+bad_char_suggest_attempts 391
 bad_char_suggest 6812621
 double_two_chars_suggest 208
 two_words_suggest 12824
@@ -4993,7 +4993,7 @@ extra_char_suggest 38938
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6348971
 move_char_suggest 76916
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 3970219
 double_two_chars_suggest 111
 two_words_suggest 10556
@@ -5012,7 +5012,7 @@ extra_char_suggest 663463
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 60217944
 move_char_suggest 7486852
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 51096134
 double_two_chars_suggest 363
 two_words_suggest 70299
@@ -5031,7 +5031,7 @@ extra_char_suggest 160619
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 22148485
 move_char_suggest 760074
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 15852716
 double_two_chars_suggest 263
 two_words_suggest 47529
@@ -5050,7 +5050,7 @@ extra_char_suggest 111894
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 17533978
 move_char_suggest 545170
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 12542141
 double_two_chars_suggest 282
 two_words_suggest 19339
@@ -5069,7 +5069,7 @@ extra_char_suggest 570143
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 57036926
 move_char_suggest 5065215
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 47944855
 double_two_chars_suggest 345
 two_words_suggest 77282
@@ -5088,7 +5088,7 @@ extra_char_suggest 395874
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 43818920
 move_char_suggest 1987197
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 32732392
 double_two_chars_suggest 364
 two_words_suggest 81763
@@ -5107,7 +5107,7 @@ extra_char_suggest 5574215
 forgetten_char_suggest_attempts 1896
 forgoten_char_suggest 518971863
 move_char_suggest 108542830
-bad_char_sugggest_attempts 1794
+bad_char_suggest_attempts 1794
 bad_char_suggest 462105195
 double_two_chars_suggest 643
 two_words_suggest 222930
@@ -5126,7 +5126,7 @@ extra_char_suggest 334793
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 46068604
 move_char_suggest 1840357
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 33641097
 double_two_chars_suggest 357
 two_words_suggest 78571
@@ -5145,7 +5145,7 @@ extra_char_suggest 1570625
 forgetten_char_suggest_attempts 1185
 forgoten_char_suggest 142734320
 move_char_suggest 15723826
-bad_char_sugggest_attempts 1092
+bad_char_suggest_attempts 1092
 bad_char_suggest 121216624
 double_two_chars_suggest 474
 two_words_suggest 145792
@@ -5164,7 +5164,7 @@ extra_char_suggest 707337
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 87620559
 move_char_suggest 5364002
-bad_char_sugggest_attempts 859
+bad_char_suggest_attempts 859
 bad_char_suggest 67685408
 double_two_chars_suggest 360
 two_words_suggest 51118
@@ -5180,7 +5180,7 @@ extra_char_suggest 159489
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 21365099
 move_char_suggest 535668
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 14560484
 double_two_chars_suggest 297
 two_words_suggest 26490
@@ -5199,7 +5199,7 @@ extra_char_suggest 256375
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 31693102
 move_char_suggest 2106959
-bad_char_sugggest_attempts 703
+bad_char_suggest_attempts 703
 bad_char_suggest 25421961
 double_two_chars_suggest 327
 two_words_suggest 50311
@@ -5218,7 +5218,7 @@ extra_char_suggest 854452
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 86195646
 move_char_suggest 9421584
-bad_char_sugggest_attempts 1015
+bad_char_suggest_attempts 1015
 bad_char_suggest 73897832
 double_two_chars_suggest 441
 two_words_suggest 159661
@@ -5234,7 +5234,7 @@ extra_char_suggest 584229
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 57258602
 move_char_suggest 4285718
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 47127509
 double_two_chars_suggest 316
 two_words_suggest 125189
@@ -5253,7 +5253,7 @@ extra_char_suggest 615719
 forgetten_char_suggest_attempts 1027
 forgoten_char_suggest 63526927
 move_char_suggest 6379742
-bad_char_sugggest_attempts 937
+bad_char_suggest_attempts 937
 bad_char_suggest 54116592
 double_two_chars_suggest 393
 two_words_suggest 104576
@@ -5269,7 +5269,7 @@ extra_char_suggest 392992
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 38990908
 move_char_suggest 2636248
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 32144041
 double_two_chars_suggest 334
 two_words_suggest 91269
@@ -5288,7 +5288,7 @@ extra_char_suggest 413007
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 45737012
 move_char_suggest 4088946
-bad_char_sugggest_attempts 859
+bad_char_suggest_attempts 859
 bad_char_suggest 38006604
 double_two_chars_suggest 368
 two_words_suggest 67267
@@ -5307,7 +5307,7 @@ extra_char_suggest 343932
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 35990932
 move_char_suggest 2345493
-bad_char_sugggest_attempts 703
+bad_char_suggest_attempts 703
 bad_char_suggest 28929943
 double_two_chars_suggest 340
 two_words_suggest 70194
@@ -5326,7 +5326,7 @@ extra_char_suggest 1217893
 forgetten_char_suggest_attempts 1264
 forgoten_char_suggest 117414754
 move_char_suggest 13576875
-bad_char_sugggest_attempts 1170
+bad_char_suggest_attempts 1170
 bad_char_suggest 99619763
 double_two_chars_suggest 406
 two_words_suggest 97005
@@ -5345,7 +5345,7 @@ extra_char_suggest 1192
 forgetten_char_suggest_attempts 237
 forgoten_char_suggest 2537476
 move_char_suggest 87
-bad_char_sugggest_attempts 156
+bad_char_suggest_attempts 156
 bad_char_suggest 1061350
 double_two_chars_suggest 101
 two_words_suggest 7272
@@ -5364,7 +5364,7 @@ extra_char_suggest 223596
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 25011619
 move_char_suggest 1049685
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 19053411
 double_two_chars_suggest 355
 two_words_suggest 41876
@@ -5383,7 +5383,7 @@ extra_char_suggest 127570
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 14981366
 move_char_suggest 517483
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 11183384
 double_two_chars_suggest 301
 two_words_suggest 24696
@@ -5402,7 +5402,7 @@ extra_char_suggest 29841
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6157962
 move_char_suggest 91261
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 3999833
 double_two_chars_suggest 96
 two_words_suggest 9259
@@ -5418,7 +5418,7 @@ extra_char_suggest 28756
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6052963
 move_char_suggest 94419
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 3901759
 double_two_chars_suggest 83
 two_words_suggest 9375
@@ -5437,7 +5437,7 @@ extra_char_suggest 27732
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 5256853
 move_char_suggest 23576
-bad_char_sugggest_attempts 235
+bad_char_suggest_attempts 235
 bad_char_suggest 2922538
 double_two_chars_suggest 110
 two_words_suggest 12131
@@ -5456,7 +5456,7 @@ extra_char_suggest 246806
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 27205527
 move_char_suggest 1827675
-bad_char_sugggest_attempts 703
+bad_char_suggest_attempts 703
 bad_char_suggest 21968548
 double_two_chars_suggest 429
 two_words_suggest 39641
@@ -5475,7 +5475,7 @@ extra_char_suggest 92849
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 11306725
 move_char_suggest 261229
-bad_char_sugggest_attempts 390
+bad_char_suggest_attempts 390
 bad_char_suggest 7965739
 double_two_chars_suggest 222
 two_words_suggest 21497
@@ -5494,7 +5494,7 @@ extra_char_suggest 155470
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 27034921
 move_char_suggest 1046523
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 19312567
 double_two_chars_suggest 383
 two_words_suggest 43802
@@ -5513,7 +5513,7 @@ extra_char_suggest 162303
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 28023642
 move_char_suggest 1055856
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 19600254
 double_two_chars_suggest 374
 two_words_suggest 45392
@@ -5532,7 +5532,7 @@ extra_char_suggest 209617
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 28035892
 move_char_suggest 1175223
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 19947178
 double_two_chars_suggest 346
 two_words_suggest 41720
@@ -5551,7 +5551,7 @@ extra_char_suggest 158969
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 19259642
 move_char_suggest 570528
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 14244410
 double_two_chars_suggest 270
 two_words_suggest 52160
@@ -5570,7 +5570,7 @@ extra_char_suggest 300360
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 34384291
 move_char_suggest 2241992
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 27980691
 double_two_chars_suggest 396
 two_words_suggest 61699
@@ -5589,7 +5589,7 @@ extra_char_suggest 252473
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 29765992
 move_char_suggest 1982737
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 23872729
 double_two_chars_suggest 395
 two_words_suggest 53416
@@ -5608,7 +5608,7 @@ extra_char_suggest 218107
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 23877066
 move_char_suggest 1322383
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 19213779
 double_two_chars_suggest 380
 two_words_suggest 49292
@@ -5627,7 +5627,7 @@ extra_char_suggest 1297899
 forgetten_char_suggest_attempts 1185
 forgoten_char_suggest 134780533
 move_char_suggest 11986306
-bad_char_sugggest_attempts 1092
+bad_char_suggest_attempts 1092
 bad_char_suggest 107845385
 double_two_chars_suggest 398
 two_words_suggest 96487
@@ -5643,7 +5643,7 @@ extra_char_suggest 274036
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 32570103
 move_char_suggest 1121052
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 23839520
 double_two_chars_suggest 295
 two_words_suggest 55187
@@ -5662,7 +5662,7 @@ extra_char_suggest 356817
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 42646679
 move_char_suggest 1636959
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 31532974
 double_two_chars_suggest 342
 two_words_suggest 72365
@@ -5681,7 +5681,7 @@ extra_char_suggest 161048
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 18203011
 move_char_suggest 566376
-bad_char_sugggest_attempts 469
+bad_char_suggest_attempts 469
 bad_char_suggest 13484822
 double_two_chars_suggest 297
 two_words_suggest 39880
@@ -5700,7 +5700,7 @@ extra_char_suggest 164918
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 24702554
 move_char_suggest 680707
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 17221535
 double_two_chars_suggest 275
 two_words_suggest 54550
@@ -5719,7 +5719,7 @@ extra_char_suggest 118353
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 16463182
 move_char_suggest 551070
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 12027359
 double_two_chars_suggest 276
 two_words_suggest 24593
@@ -5738,7 +5738,7 @@ extra_char_suggest 40924
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 7986170
 move_char_suggest 99721
-bad_char_sugggest_attempts 313
+bad_char_suggest_attempts 313
 bad_char_suggest 5208437
 double_two_chars_suggest 109
 two_words_suggest 20987
@@ -5757,7 +5757,7 @@ extra_char_suggest 55032
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 8149538
 move_char_suggest 104653
-bad_char_sugggest_attempts 313
+bad_char_suggest_attempts 313
 bad_char_suggest 5204235
 double_two_chars_suggest 106
 two_words_suggest 10332
@@ -5773,7 +5773,7 @@ extra_char_suggest 42907
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 8148833
 move_char_suggest 97915
-bad_char_sugggest_attempts 313
+bad_char_suggest_attempts 313
 bad_char_suggest 5191980
 double_two_chars_suggest 90
 two_words_suggest 21848
@@ -5792,7 +5792,7 @@ extra_char_suggest 283931
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 35900404
 move_char_suggest 2372103
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 30234470
 double_two_chars_suggest 456
 two_words_suggest 75145
@@ -5811,7 +5811,7 @@ extra_char_suggest 123741
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 21187340
 move_char_suggest 1167522
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 16356335
 double_two_chars_suggest 328
 two_words_suggest 25222
@@ -5830,7 +5830,7 @@ extra_char_suggest 179539
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 20710415
 move_char_suggest 1087928
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 16172528
 double_two_chars_suggest 58370
 two_words_suggest 25384
@@ -5849,7 +5849,7 @@ extra_char_suggest 179480
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 20179229
 move_char_suggest 1087510
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 15759852
 double_two_chars_suggest 55260
 two_words_suggest 22075
@@ -5865,7 +5865,7 @@ extra_char_suggest 179467
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 20644859
 move_char_suggest 1091195
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 16176762
 double_two_chars_suggest 57962
 two_words_suggest 25174
@@ -5884,7 +5884,7 @@ extra_char_suggest 136604
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 16506801
 move_char_suggest 698673
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 12492749
 double_two_chars_suggest 33135
 two_words_suggest 22294
@@ -5903,7 +5903,7 @@ extra_char_suggest 132425
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 15945694
 move_char_suggest 689393
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 12025717
 double_two_chars_suggest 31064
 two_words_suggest 18551
@@ -5919,7 +5919,7 @@ extra_char_suggest 136921
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 16453565
 move_char_suggest 693960
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 12436604
 double_two_chars_suggest 33172
 two_words_suggest 22211
@@ -5938,7 +5938,7 @@ extra_char_suggest 317223
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 33658166
 move_char_suggest 2642543
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 27060003
 double_two_chars_suggest 30422
 two_words_suggest 44396
@@ -5957,7 +5957,7 @@ extra_char_suggest 100090
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 12702816
 move_char_suggest 408366
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 9380166
 double_two_chars_suggest 14447
 two_words_suggest 19887
@@ -5976,7 +5976,7 @@ extra_char_suggest 69272
 forgetten_char_suggest_attempts 474
 forgoten_char_suggest 9482333
 move_char_suggest 212012
-bad_char_sugggest_attempts 390
+bad_char_suggest_attempts 390
 bad_char_suggest 6413146
 double_two_chars_suggest 232
 two_words_suggest 16703
@@ -5995,7 +5995,7 @@ extra_char_suggest 13525
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6699585
 move_char_suggest 90652
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 3990762
 double_two_chars_suggest 121
 two_words_suggest 12026
@@ -6014,7 +6014,7 @@ extra_char_suggest 31797
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 6637814
 move_char_suggest 90298
-bad_char_sugggest_attempts 313
+bad_char_suggest_attempts 313
 bad_char_suggest 4051545
 double_two_chars_suggest 124
 two_words_suggest 12760
@@ -6033,7 +6033,7 @@ extra_char_suggest 116958
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 18628773
 move_char_suggest 842730
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 13915542
 double_two_chars_suggest 333
 two_words_suggest 34113
@@ -6052,7 +6052,7 @@ extra_char_suggest 460439
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 50074901
 move_char_suggest 3198627
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 39746498
 double_two_chars_suggest 362
 two_words_suggest 49751
@@ -6071,7 +6071,7 @@ extra_char_suggest 324277
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 38426798
 move_char_suggest 2089145
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 29123552
 double_two_chars_suggest 347
 two_words_suggest 41185
@@ -6090,7 +6090,7 @@ extra_char_suggest 757888
 forgetten_char_suggest_attempts 948
 forgoten_char_suggest 75993918
 move_char_suggest 5697561
-bad_char_sugggest_attempts 858
+bad_char_suggest_attempts 858
 bad_char_suggest 60805941
 double_two_chars_suggest 340
 two_words_suggest 80027
@@ -6109,7 +6109,7 @@ extra_char_suggest 339060
 forgetten_char_suggest_attempts 790
 forgoten_char_suggest 38550039
 move_char_suggest 2167630
-bad_char_sugggest_attempts 702
+bad_char_suggest_attempts 702
 bad_char_suggest 29466383
 double_two_chars_suggest 352
 two_words_suggest 38566
@@ -6128,7 +6128,7 @@ extra_char_suggest 5280753
 forgetten_char_suggest_attempts 2133
 forgoten_char_suggest 525819439
 move_char_suggest 141495931
-bad_char_sugggest_attempts 2028
+bad_char_suggest_attempts 2028
 bad_char_suggest 471429725
 double_two_chars_suggest 463
 two_words_suggest 111136
@@ -6147,7 +6147,7 @@ extra_char_suggest 105882
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 13630238
 move_char_suggest 445747
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 10177579
 double_two_chars_suggest 235
 two_words_suggest 39718
@@ -6166,7 +6166,7 @@ extra_char_suggest 46279
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 10545576
 move_char_suggest 102013
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 5466242
 double_two_chars_suggest 82
 two_words_suggest 13912
@@ -6185,7 +6185,7 @@ extra_char_suggest 200686
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 26575336
 move_char_suggest 1064313
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 19546893
 double_two_chars_suggest 260
 two_words_suggest 43807
@@ -6204,7 +6204,7 @@ extra_char_suggest 88726
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 11545803
 move_char_suggest 407267
-bad_char_sugggest_attempts 469
+bad_char_suggest_attempts 469
 bad_char_suggest 8503663
 double_two_chars_suggest 251
 two_words_suggest 23377
@@ -6223,7 +6223,7 @@ extra_char_suggest 87691
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 11416476
 move_char_suggest 366756
-bad_char_sugggest_attempts 469
+bad_char_suggest_attempts 469
 bad_char_suggest 8247717
 double_two_chars_suggest 245
 two_words_suggest 22990
@@ -6242,7 +6242,7 @@ extra_char_suggest 135753
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 18638114
 move_char_suggest 560626
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 13041059
 double_two_chars_suggest 244
 two_words_suggest 29024
@@ -6261,7 +6261,7 @@ extra_char_suggest 149305
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 16613387
 move_char_suggest 732349
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 12700778
 double_two_chars_suggest 248
 two_words_suggest 46143
@@ -6280,7 +6280,7 @@ extra_char_suggest 121715
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 14052079
 move_char_suggest 597504
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 10563972
 double_two_chars_suggest 239
 two_words_suggest 23262
@@ -6299,7 +6299,7 @@ extra_char_suggest 3234
 forgetten_char_suggest_attempts 237
 forgoten_char_suggest 1905901
 move_char_suggest 110
-bad_char_sugggest_attempts 157
+bad_char_suggest_attempts 157
 bad_char_suggest 853648
 double_two_chars_suggest 81
 two_words_suggest 3335
@@ -6318,7 +6318,7 @@ extra_char_suggest 5210
 forgetten_char_suggest_attempts 237
 forgoten_char_suggest 1870044
 move_char_suggest 107
-bad_char_sugggest_attempts 157
+bad_char_suggest_attempts 157
 bad_char_suggest 848926
 double_two_chars_suggest 72
 two_words_suggest 3042
@@ -6334,7 +6334,7 @@ extra_char_suggest 3130
 forgetten_char_suggest_attempts 237
 forgoten_char_suggest 1913197
 move_char_suggest 60
-bad_char_sugggest_attempts 157
+bad_char_suggest_attempts 157
 bad_char_suggest 872109
 double_two_chars_suggest 78
 two_words_suggest 3390
@@ -6353,7 +6353,7 @@ extra_char_suggest 142826
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 21465917
 move_char_suggest 795620
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 14970647
 double_two_chars_suggest 268
 two_words_suggest 31547
@@ -6372,7 +6372,7 @@ extra_char_suggest 140234
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 21535221
 move_char_suggest 806296
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 15257274
 double_two_chars_suggest 265
 two_words_suggest 32551
@@ -6391,7 +6391,7 @@ extra_char_suggest 164042
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 18282157
 move_char_suggest 1010411
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 14476631
 double_two_chars_suggest 380
 two_words_suggest 25274
@@ -6407,7 +6407,7 @@ extra_char_suggest 167331
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 18707779
 move_char_suggest 1021618
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 14705854
 double_two_chars_suggest 343
 two_words_suggest 26814
@@ -6426,7 +6426,7 @@ extra_char_suggest 32126
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 5056656
 move_char_suggest 70536
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 3209210
 double_two_chars_suggest 77
 two_words_suggest 8120
@@ -6442,7 +6442,7 @@ extra_char_suggest 25994
 forgetten_char_suggest_attempts 395
 forgoten_char_suggest 5245947
 move_char_suggest 68356
-bad_char_sugggest_attempts 312
+bad_char_suggest_attempts 312
 bad_char_suggest 3257530
 double_two_chars_suggest 74
 two_words_suggest 8775
@@ -6461,7 +6461,7 @@ extra_char_suggest 838358
 forgetten_char_suggest_attempts 1106
 forgoten_char_suggest 84507982
 move_char_suggest 8389905
-bad_char_sugggest_attempts 1014
+bad_char_suggest_attempts 1014
 bad_char_suggest 65665279
 double_two_chars_suggest 350
 two_words_suggest 57983
@@ -6480,7 +6480,7 @@ extra_char_suggest 87204
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 21704542
 move_char_suggest 867042
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 16664481
 double_two_chars_suggest 237
 two_words_suggest 36945
@@ -6499,7 +6499,7 @@ extra_char_suggest 107088
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 14570967
 move_char_suggest 442462
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 10790389
 double_two_chars_suggest 244
 two_words_suggest 19979
@@ -6518,7 +6518,7 @@ extra_char_suggest 217679
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 29493527
 move_char_suggest 1340664
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 21407340
 double_two_chars_suggest 267
 two_words_suggest 34696
@@ -6537,7 +6537,7 @@ extra_char_suggest 412877
 forgetten_char_suggest_attempts 869
 forgoten_char_suggest 55490738
 move_char_suggest 3597642
-bad_char_sugggest_attempts 780
+bad_char_suggest_attempts 780
 bad_char_suggest 43537948
 double_two_chars_suggest 263
 two_words_suggest 73991
@@ -6556,7 +6556,7 @@ extra_char_suggest 200541
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 26061993
 move_char_suggest 1461126
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 20395744
 double_two_chars_suggest 288
 two_words_suggest 42173
@@ -6575,7 +6575,7 @@ extra_char_suggest 141481
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 22426042
 move_char_suggest 919949
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 16565004
 double_two_chars_suggest 367
 two_words_suggest 33504
@@ -6594,7 +6594,7 @@ extra_char_suggest 213521
 forgetten_char_suggest_attempts 711
 forgoten_char_suggest 29444073
 move_char_suggest 1389763
-bad_char_sugggest_attempts 624
+bad_char_suggest_attempts 624
 bad_char_suggest 22505051
 double_two_chars_suggest 311
 two_words_suggest 41826
@@ -6613,7 +6613,7 @@ extra_char_suggest 261391
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 28304712
 move_char_suggest 1174797
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 21427055
 double_two_chars_suggest 287
 two_words_suggest 52860
@@ -6629,7 +6629,7 @@ extra_char_suggest 17481
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 3935103
 move_char_suggest 21062
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2555685
 double_two_chars_suggest 181
 two_words_suggest 7750
@@ -6645,7 +6645,7 @@ extra_char_suggest 18016
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 8361181
 move_char_suggest 42191
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 4232342
 double_two_chars_suggest 92
 two_words_suggest 16543
@@ -6664,7 +6664,7 @@ extra_char_suggest 232660
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 26746986
 move_char_suggest 1053215
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 20637656
 double_two_chars_suggest 317
 two_words_suggest 30606
@@ -6680,7 +6680,7 @@ extra_char_suggest 234732
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 26879632
 move_char_suggest 1123452
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 20578628
 double_two_chars_suggest 259
 two_words_suggest 47709
@@ -6696,7 +6696,7 @@ extra_char_suggest 245218
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 27162111
 move_char_suggest 1163077
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 20335996
 double_two_chars_suggest 286
 two_words_suggest 48153
@@ -6712,7 +6712,7 @@ extra_char_suggest 254005
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 27071263
 move_char_suggest 1034359
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 20354932
 double_two_chars_suggest 266
 two_words_suggest 29088
@@ -6731,7 +6731,7 @@ extra_char_suggest 302876
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 29799005
 move_char_suggest 1190699
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 22338794
 double_two_chars_suggest 348
 two_words_suggest 39260
@@ -6747,7 +6747,7 @@ extra_char_suggest 249857
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 31205530
 move_char_suggest 1376403
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 21687019
 double_two_chars_suggest 353
 two_words_suggest 52393
@@ -6763,7 +6763,7 @@ extra_char_suggest 271458
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 29128723
 move_char_suggest 1133289
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 21711780
 double_two_chars_suggest 303
 two_words_suggest 53475
@@ -6779,7 +6779,7 @@ extra_char_suggest 279888
 forgetten_char_suggest_attempts 632
 forgoten_char_suggest 24447207
 move_char_suggest 1038357
-bad_char_sugggest_attempts 546
+bad_char_suggest_attempts 546
 bad_char_suggest 18916470
 double_two_chars_suggest 362
 two_words_suggest 27237
@@ -6795,7 +6795,7 @@ extra_char_suggest 17440
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 3667984
 move_char_suggest 17931
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2021639
 double_two_chars_suggest 106
 two_words_suggest 6357
@@ -6811,7 +6811,7 @@ extra_char_suggest 17488
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 3633787
 move_char_suggest 17710
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2008972
 double_two_chars_suggest 81
 two_words_suggest 6100
@@ -6827,7 +6827,7 @@ extra_char_suggest 18165
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 8270928
 move_char_suggest 40050
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 4161433
 double_two_chars_suggest 90
 two_words_suggest 15837
@@ -6846,7 +6846,7 @@ extra_char_suggest 140535
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 16380051
 move_char_suggest 527205
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 12038711
 double_two_chars_suggest 236
 two_words_suggest 32920
@@ -6862,7 +6862,7 @@ extra_char_suggest 17635
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 3821475
 move_char_suggest 18155
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2062233
 double_two_chars_suggest 87
 two_words_suggest 6700
@@ -6881,7 +6881,7 @@ extra_char_suggest 121540
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 15405531
 move_char_suggest 454351
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 11488835
 double_two_chars_suggest 292
 two_words_suggest 24876
@@ -6897,7 +6897,7 @@ extra_char_suggest 124079
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 15424364
 move_char_suggest 461039
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 10961804
 double_two_chars_suggest 244
 two_words_suggest 31144
@@ -6913,7 +6913,7 @@ extra_char_suggest 121761
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 15149582
 move_char_suggest 465714
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 10951877
 double_two_chars_suggest 218
 two_words_suggest 26804
@@ -6929,7 +6929,7 @@ extra_char_suggest 121580
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 15672734
 move_char_suggest 460535
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 11709930
 double_two_chars_suggest 255
 two_words_suggest 21781
@@ -6948,7 +6948,7 @@ extra_char_suggest 136605
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 16656563
 move_char_suggest 529186
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 12421669
 double_two_chars_suggest 258
 two_words_suggest 25963
@@ -6964,7 +6964,7 @@ extra_char_suggest 133684
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 16272982
 move_char_suggest 514710
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 11936448
 double_two_chars_suggest 251
 two_words_suggest 32544
@@ -6980,7 +6980,7 @@ extra_char_suggest 130071
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 16213253
 move_char_suggest 509217
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 11721072
 double_two_chars_suggest 220
 two_words_suggest 31665
@@ -6996,7 +6996,7 @@ extra_char_suggest 111208
 forgetten_char_suggest_attempts 553
 forgoten_char_suggest 13641897
 move_char_suggest 442173
-bad_char_sugggest_attempts 468
+bad_char_suggest_attempts 468
 bad_char_suggest 9943525
 double_two_chars_suggest 195
 two_words_suggest 19174
@@ -7012,7 +7012,7 @@ extra_char_suggest 16763
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 3622255
 move_char_suggest 17847
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2011056
 double_two_chars_suggest 88
 two_words_suggest 6249
@@ -7028,7 +7028,7 @@ extra_char_suggest 17075
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 4014946
 move_char_suggest 19066
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2146743
 double_two_chars_suggest 92
 two_words_suggest 7585
@@ -7047,7 +7047,7 @@ extra_char_suggest 16904
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 3839706
 move_char_suggest 21823
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2246803
 double_two_chars_suggest 93
 two_words_suggest 6751
@@ -7063,7 +7063,7 @@ extra_char_suggest 26194
 forgetten_char_suggest_attempts 316
 forgoten_char_suggest 3868510
 move_char_suggest 19270
-bad_char_sugggest_attempts 234
+bad_char_suggest_attempts 234
 bad_char_suggest 2099050
 double_two_chars_suggest 94
 two_words_suggest 6528

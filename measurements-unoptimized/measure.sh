@@ -31,10 +31,10 @@ grep 'keyboard_suggest ' $DICT.log|awk '{print $2}' \
 > $DICT.log.keyboard_suggest
 grep 'extra_char_suggest ' $DICT.log|awk '{print $2}' \
 > $DICT.log.extra_char_suggest
-grep 'forgoten_char_suggest ' $DICT.log|awk '{print $2}' \
-> $DICT.log.forgoten_char_suggest
-grep 'forgetten_char_suggest_attempts ' $DICT.log|awk '{print $2}' \
-> $DICT.log.forgetten_char_suggest_attempts
+grep 'forgotten_char_suggest ' $DICT.log|awk '{print $2}' \
+> $DICT.log.forgotten_char_suggest
+grep 'forgotten_char_suggest_attempts ' $DICT.log|awk '{print $2}' \
+> $DICT.log.forgotten_char_suggest_attempts
 grep 'move_char_suggest ' $DICT.log|awk '{print $2}' \
 > $DICT.log.move_char_suggest
 grep 'bad_char_suggest ' $DICT.log|awk '{print $2}' \

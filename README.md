@@ -183,6 +183,8 @@ aggregated by the `report.py` script, see
 [measurements-optimized-nologs/report.md](measurements-optimized-nologs/report.md).
 Here also a drill down to more details is offered.
 
+A practical comparison of graphs is found in [comparison/report.md](comparison/report.md).
+
 As these tests compare Nuspell and Hunspell, the developer or analyst needs to
 compare the reports and graphs side by side to get more insight impact is of the
 optimization. In the overall number, clearly can be seen that these

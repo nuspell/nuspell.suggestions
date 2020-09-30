@@ -4,15 +4,15 @@
 |--------|--------:|--------:|--------:|
 | Suggestion in Nuspell      | 0.748 | 0.516 | 0.974 |
 | Suggestion in Hunspell     | 0.723 | 0.516 | 0.975 |
-| Suggestion Speedup         | 1.5 | 0.6 | 2.3 |
-| Suggestion Speedup Maximum | 4361.2 | 10.4 | 15396.2 |
+| Suggestion Speedup         | 1.6 | 0.6 | 2.9 |
+| Suggestion Speedup Maximum | 4361.3 | 10.9 | 15396.2 |
 
 The last two columns show the maximum time needed in seconds to find suggestions. Follow the links below to drill down to more metrics.
 
 | speedup | speedup max. | dictionary | words | in Nus. | in Hun. | Max. Nus. (s) | Max. Hun. (s) 
 |--------:|-------------:|------------|------:|--------:|--------:|--:|--:|
+| 2.9 | 10.9 | [fr-short](logs/fr-short.out) | 64 | 0.516 | 0.516 | 0.276 | 0.848 |
 | 2.3 | 18.5 | [fr](logs/fr.out) | 288 | 0.635 | 0.653 | 0.980 | 1.639 |
-| 2.2 | 10.4 | [fr-short](logs/fr-short.out) | 64 | 0.516 | 0.516 | 0.555 | 1.211 |
 | 1.6 | 14846.2 | [nl](logs/nl.out) | 5232 | 0.709 | 0.684 | 3.801 | 10.180 |
 | 1.6 | 15396.2 | [nl-short](logs/nl-short.out) | 256 | 0.633 | 0.578 | 2.067 | 5.228 |
 | 1.1 | 81.3 | [en_US](logs/en_US.out) | 4171 | 0.974 | 0.975 | 0.446 | 0.518 |

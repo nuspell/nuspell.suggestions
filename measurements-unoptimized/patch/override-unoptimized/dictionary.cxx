@@ -2285,7 +2285,7 @@ auto Dict_Base::suggest_low(std::wstring& word, List_WStrings& out) const
 	forgotten_char_suggest(word, out);
 	tick_b = high_resolution_clock::now();
 	dur = tick_b - tick_a;
-	cerr << "forgoten_char_suggest " << dur.count() << endl;
+	cerr << "forgotten_char_suggest " << dur.count() << endl;
 	tick_a = high_resolution_clock::now();
 	move_char_suggest(word, out);
 	tick_b = high_resolution_clock::now();
@@ -2596,7 +2596,7 @@ auto Dict_Base::forgotten_char_suggest(std::wstring& word,
 			++attempt;
 		}
 	}
-	cerr << "forgetten_char_suggest_attempts " << attempt << endl;
+	cerr << "forgotten_char_suggest_attempts " << attempt << endl;
 }
 
 auto Dict_Base::move_char_suggest(std::wstring& word,
@@ -2640,7 +2640,7 @@ auto Dict_Base::bad_char_suggest(std::wstring& word, List_WStrings& out) const
 			++attempt;
 		}
 	}
-	cerr << "bad_char_sugggest_attempts " << attempt << endl;
+	cerr << "bad_char_suggest_attempts " << attempt << endl;
 }
 
 auto Dict_Base::doubled_two_chars_suggest(std::wstring& word,
