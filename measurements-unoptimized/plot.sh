@@ -7,7 +7,7 @@ fi
 for LOG_PATH in logs/*.log.*; do
     LOG=$(basename $LOG_PATH .log)
     if [ ! -s $LOG_PATH ]; then
-        rm -f plots/$LOG.plt graphs/$LOG.png
+        rm -f gnuplots/$LOG.plt graphs/$LOG.png
         continue
     fi
     if [ gnuplots/$LOG.plt -nt $LOG_PATH ]; then

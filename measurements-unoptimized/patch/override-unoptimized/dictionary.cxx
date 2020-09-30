@@ -2300,7 +2300,7 @@ auto Dict_Base::suggest_low(std::wstring& word, List_WStrings& out) const
 	doubled_two_chars_suggest(word, out);
 	tick_b = high_resolution_clock::now();
 	dur = tick_b - tick_a;
-	cerr << "double_two_chars_suggest " << dur.count() << endl;
+	cerr << "doubled_two_chars_suggest " << dur.count() << endl;
 	tick_a = high_resolution_clock::now();
 	two_words_suggest(word, out);
 	tick_b = high_resolution_clock::now();

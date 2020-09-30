@@ -41,8 +41,8 @@ grep 'bad_char_suggest ' $DICT.log|awk '{print $2}' \
 > $DICT.log.bad_char_suggest
 grep 'bad_char_suggest_attempts ' $DICT.log|awk '{print $2}' \
 > $DICT.log.bad_char_suggest_attempts
-grep 'double_two_chars_suggest ' $DICT.log|awk '{print $2}' \
-> $DICT.log.double_two_chars_suggest
+grep 'doubled_two_chars_suggest ' $DICT.log|awk '{print $2}' \
+> $DICT.log.doubled_two_chars_suggest
 grep 'two_words_suggest ' $DICT.log|awk '{print $2}' \
 > $DICT.log.two_words_suggest
 grep 'phonetic_suggest ' $DICT.log|awk '{print $2}' \

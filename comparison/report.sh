@@ -56,7 +56,7 @@ report
 j=bad_char_suggest_attempts
 report
 
-j=double_two_chars_suggest
+j=doubled_two_chars_suggest
 report
 
 j=two_words_suggest

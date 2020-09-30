@@ -20,8 +20,8 @@ developers and to provide preliminary figures on suggestion quality and timing.
 
 # Organization
 
-The main directories in this repository are `measurements-unoptimized`,
-`measurements-optimized` and `measurements-optimized-nolog`. Supporting files
+The main directories in this repository are `measurements-unoptimized` and
+`measurements-optimized`. Supporting files
 are stored in `dicts` for the dictionaries and `templates` for generating
 histogram graphs on timings etc.
 
@@ -139,13 +139,11 @@ to be build with the same commands. Note, when the optimization has been
 completed, the reporting of these metrics are no longer relevant, only the
 numbers that are reported by the verification executable.
 
-In `measurement-optimized-nolog` is identical to `measurement-optimized` but
-without the build option `-DBUILD_TIMING=ON`. This prevents writing metrics to
-log files and will provide more accurate overall speedup times, but no insight
-into suggestion methods. Spoiler: in verification testing the speedup varies
-slightly with each test, in the second decimal. Suggestion testing uses timeouts
-and is therefore more prone to variations. Hence disabling the metric logging
-will probably have a marginally effect or disappear in the timing variation.
+When `measurement-optimized` is build without the option `-DBUILD_TIMING=ON`,
+preventing writing metrics to log files, the speedup is marginally different.
+With that can be confirmed that the logging of metrics has no influence on the
+metrics reported here. Also in verification testing the speedup varies slightly
+with each test, in the second decimal.
 
 # Optimization
 
@@ -178,9 +176,8 @@ total more often than the number of words provided by a test.
 
 The verification itself also reports on times and other metrics which are
 aggregated by the `report.py` script, see
-[measurements-unoptimized/report.md](measurements-unoptimized/report.md),
-[measurements-optimized/report.md](measurements-optimized/report.md) and
-[measurements-optimized-nologs/report.md](measurements-optimized-nologs/report.md).
+[measurements-unoptimized/report.md](measurements-unoptimized/report.md) and
+[measurements-optimized/report.md](measurements-optimized/report.md).
 Here also a drill down to more details is offered.
 
 A practical comparison of graphs is found in [comparison/report.md](comparison/report.md).
@@ -200,7 +197,6 @@ English dictionaries alone.
 |-----------------|------:|------:|------------:|-------:|---------:|-------:|---------:|
 | unoptimized     | 17 m. | 34 m. |        8 m. | >24 h. |   205 m. | >24 h. |    57 m. |
 | optimized       | 14 m. | 25 m. |        6 m. |   4 m. |     1 m. |  67 m. |     4 m. |
-| optimized-nolog | 14 m. | 25 m. |        6 m. |   4 m. |     1 m. |  67 m. |     4 m. |
 
 Note that currently `fr-short.tsv` is the last 64 lines of `fr.tsv` and that
 `nl-short.tsv` is the last 256 lines of `nl.tsv`. All typical processing times

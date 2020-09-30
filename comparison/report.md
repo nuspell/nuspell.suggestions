@@ -26,7 +26,7 @@
 
 [bad_char_suggest_attempts](bad_char_suggest_attempts.md)
 
-[double_two_chars_suggest](double_two_chars_suggest.md)
+[doubled_two_chars_suggest](doubled_two_chars_suggest.md)
 
 [two_words_suggest](two_words_suggest.md)
 

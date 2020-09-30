@@ -1,4 +1,4 @@
-set terminal pngcairo enhanced font "arial,10" fontscale 1.0 size 800,600
+set terminal pngcairo enhanced font "arial,10" fontscale 1.0 size 800,500
 set output 'graphs/NAME.png'
 set boxwidth MAX./50 absolute
 set key fixed right top vertical Right noreverse enhanced autotitle box lt black linewidth 1.000 dashtype solid
